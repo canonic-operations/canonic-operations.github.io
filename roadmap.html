@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CANONIC - Roadmap</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'SF Mono', 'Monaco', monospace;
+            background: #0a0a0a;
+            color: #e0e0e0;
+            min-height: 100vh;
+            padding: 40px 20px;
+        }
+        .container { max-width: 900px; margin: 0 auto; }
+        h1 { font-size: 32px; margin-bottom: 8px; color: #22c55e; }
+        .subtitle { color: #888; font-size: 14px; margin-bottom: 32px; }
+        .back-link {
+            display: inline-block;
+            margin-bottom: 24px;
+            color: #7c3aed;
+            text-decoration: none;
+        }
+        .back-link:hover { text-decoration: underline; }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 32px;
+        }
+        th, td {
+            padding: 12px 16px;
+            text-align: left;
+            border-bottom: 1px solid #333;
+        }
+        th { color: #7c3aed; font-size: 12px; text-transform: uppercase; }
+        .org-name { font-weight: bold; color: #e0e0e0; }
+        .status-live {
+            background: #1a2e1a;
+            color: #22c55e;
+            padding: 4px 12px;
+            border-radius: 4px;
+            font-size: 11px;
+            font-weight: bold;
+        }
+        .status-planned {
+            background: #2e2e1a;
+            color: #eab308;
+            padding: 4px 12px;
+            border-radius: 4px;
+            font-size: 11px;
+            font-weight: bold;
+        }
+        .phase {
+            background: #1a1a2e;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 16px;
+        }
+        .phase-title { color: #ec4899; font-weight: bold; margin-bottom: 8px; }
+        .phase-desc { color: #888; font-size: 13px; }
+        .footer {
+            margin-top: 32px;
+            padding-top: 16px;
+            border-top: 1px solid #333;
+            color: #666;
+            font-size: 12px;
+            text-align: center;
+        }
+        .timestamp { color: #22c55e; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="index.html" class="back-link">&larr; Back to Index</a>
+        <h1>ROADMAP</h1>
+        <div class="subtitle">Demo → Live Coverage Progression</div>
+
+        <div class="phase">
+            <div class="phase-title">PHASE 1: DEMOS</div>
+            <div class="phase-desc">Interactive demos at /demo/ - proof of concept, user testing</div>
+            <div style="margin-top: 12px; padding-top: 12px; border-top: 1px solid #333;">
+                <span style="color: #7c3aed; font-size: 11px;">LEDGER EVOLUTION:</span>
+                <span style="color: #888; font-size: 11px;">VaaS mCODE → FaaS routing → demo/index.html</span>
+            </div>
+        </div>
+
+        <div class="phase">
+            <div class="phase-title">PHASE 2: LIVES</div>
+            <div class="phase-desc">Governance frontends - CANON.md rendered, privacy-aware</div>
+            <div style="margin-top: 12px; padding-top: 12px; border-top: 1px solid #333;">
+                <span style="color: #7c3aed; font-size: 11px;">LEDGER EVOLUTION:</span>
+                <span style="color: #888; font-size: 11px;">VaaS eligibility → FaaS build_static → org/index.html</span>
+            </div>
+        </div>
+
+        <div class="phase">
+            <div class="phase-title">PHASE 3: COVERAGE + ROADMAP</div>
+            <div class="phase-desc">Full org coverage - all orgs with demos and live frontends</div>
+            <div style="margin-top: 12px; padding-top: 12px; border-top: 1px solid #333;">
+                <span style="color: #7c3aed; font-size: 11px;">LEDGER EVOLUTION:</span>
+                <span style="color: #888; font-size: 11px;">VaaS closure → FaaS roadmap → closure.html + roadmap.html</span>
+            </div>
+        </div>
+
+        <h2 style="color: #ec4899; margin: 32px 0 16px;">SERVICE ENDPOINTS</h2>
+
+        <div class="phase" style="border-left: 3px solid #22c55e;">
+            <div class="phase-title">VaaS (Validators as a Service)</div>
+            <div class="phase-desc">
+                <code style="color: #22c55e;">mammochat-mcode.workers.dev</code> mCODE validation<br>
+                <code style="color: #22c55e;">mammochat-eligibility.workers.dev</code> eligibility checking
+            </div>
+        </div>
+
+        <div class="phase" style="border-left: 3px solid #ec4899;">
+            <div class="phase-title">FaaS (Frontend as a Service)</div>
+            <div class="phase-desc">
+                <code style="color: #ec4899;">canonic-operations.github.io</code> static generation<br>
+                <code style="color: #888;">CANON.md → index.html</code> privacy-aware auth
+            </div>
+        </div>
+
+        <table>
+            <tr>
+                <th>Organization</th>
+                <th>Demo</th>
+                <th>Live</th>
+            </tr>
+            
+        <tr>
+            <td class="org-name">canonic-foundation</td>
+            <td><span class="status-planned">PLANNED</span></td>
+            <td><span class="status-live">LIVE</span></td>
+        </tr>
+        <tr>
+            <td class="org-name">canonic-shop</td>
+            <td><span class="status-planned">PLANNED</span></td>
+            <td><span class="status-live">LIVE</span></td>
+        </tr>
+        <tr>
+            <td class="org-name">hadleylab-dexter</td>
+            <td><span class="status-live">LIVE</span></td>
+            <td><span class="status-live">LIVE</span></td>
+        </tr>
+        <tr>
+            <td class="org-name">adventhealth-rob</td>
+            <td><span class="status-planned">PLANNED</span></td>
+            <td><span class="status-live">LIVE</span></td>
+        </tr>
+        <tr>
+            <td class="org-name">canonic-domains</td>
+            <td><span class="status-planned">PLANNED</span></td>
+            <td><span class="status-live">LIVE</span></td>
+        </tr>
+        <tr>
+            <td class="org-name">canonic-operations</td>
+            <td><span class="status-planned">PLANNED</span></td>
+            <td><span class="status-live">LIVE</span></td>
+        </tr>
+        <tr>
+            <td class="org-name">canonic-discovery</td>
+            <td><span class="status-planned">PLANNED</span></td>
+            <td><span class="status-live">LIVE</span></td>
+        </tr>
+        </table>
+
+        <div class="footer">
+            Built by FaaS | <span class="timestamp">2026-01-30 20:08 UTC</span>
+        </div>
+    </div>
+</body>
+</html>

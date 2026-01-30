@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CANONIC-SHOP</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'SF Mono', 'Monaco', monospace;
+            background: #0a0a0a;
+            color: #e0e0e0;
+            min-height: 100vh;
+            padding: 40px 20px;
+        }
+        .container { max-width: 900px; margin: 0 auto; }
+        h1 { font-size: 32px; margin-bottom: 8px; color: #7c3aed; }
+        .axiom {
+            background: #1a1a2e;
+            padding: 20px;
+            border-radius: 8px;
+            margin: 24px 0;
+            border-left: 4px solid #22c55e;
+        }
+        .axiom-text { font-size: 18px; color: #22c55e; }
+        .constraints {
+            background: #1a1a2e;
+            padding: 20px;
+            border-radius: 8px;
+        }
+        .constraint {
+            padding: 12px;
+            background: #0a0a0a;
+            border-radius: 4px;
+            margin: 8px 0;
+            border-left: 3px solid #7c3aed;
+        }
+        .inherits { color: #888; font-size: 14px; margin-bottom: 24px; }
+        .primitives {
+            display: flex;
+            gap: 8px;
+            margin: 24px 0;
+        }
+        .primitive {
+            background: #1a2e1a;
+            color: #22c55e;
+            padding: 8px 16px;
+            border-radius: 4px;
+            font-size: 12px;
+            font-weight: bold;
+        }
+        .footer {
+            margin-top: 32px;
+            padding-top: 16px;
+            border-top: 1px solid #333;
+            color: #666;
+            font-size: 12px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>CANONIC-SHOP</h1>
+        <div class="inherits">inherits: /AGENT/</div>
+
+        <div class="primitives">
+            <span class="primitive">AGENT</span>
+            <span class="primitive">EVO</span>
+            <span class="primitive">CHAT</span>
+            <span class="primitive">SHOP</span>
+        </div>
+
+        <div class="axiom">
+            <div class="axiom-text">SHOP = Commerce primitive. AGENT sells.</div>
+        </div>
+
+        <div class="constraints">
+            <h3 style="color: #7c3aed; margin-bottom: 16px;">CONSTRAINTS</h3>
+            SHOP MUST inherit AGENT.<br>SHOP MUST operate COIN.<br>SHOP MUST expose VaaS.<br>SHOP MUST expose FaaS.<br>COIN = WORK. MAX / MIN.
+        </div>
+
+        
+
+        <div class="footer">
+            AGENT → Language → Template | 2026-01-30 20:15 UTC
+        </div>
+    </div>
+</body>
+</html>

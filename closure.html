@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CANONIC - Document Closure</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'SF Mono', 'Monaco', monospace;
+            background: #0a0a0a;
+            color: #e0e0e0;
+            min-height: 100vh;
+            padding: 40px 20px;
+        }
+        .container { max-width: 900px; margin: 0 auto; }
+        h1 { font-size: 32px; margin-bottom: 8px; color: #ec4899; }
+        .subtitle { color: #888; font-size: 14px; margin-bottom: 32px; }
+        .back-link {
+            display: inline-block;
+            margin-bottom: 24px;
+            color: #7c3aed;
+            text-decoration: none;
+        }
+        .back-link:hover { text-decoration: underline; }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 32px;
+        }
+        th, td {
+            padding: 12px 16px;
+            text-align: left;
+            border-bottom: 1px solid #333;
+        }
+        th { color: #7c3aed; font-size: 12px; text-transform: uppercase; }
+        .org-name { font-weight: bold; color: #e0e0e0; }
+        .status-closed {
+            background: #1a2e1a;
+            color: #22c55e;
+            padding: 4px 12px;
+            border-radius: 4px;
+            font-size: 11px;
+            font-weight: bold;
+        }
+        .status-open {
+            background: #2e1a1a;
+            color: #ef4444;
+            padding: 4px 12px;
+            border-radius: 4px;
+            font-size: 11px;
+            font-weight: bold;
+        }
+        .status-planned {
+            background: #2e2e1a;
+            color: #eab308;
+            padding: 4px 12px;
+            border-radius: 4px;
+            font-size: 11px;
+            font-weight: bold;
+        }
+        .legend {
+            background: #1a1a2e;
+            padding: 16px;
+            border-radius: 8px;
+            margin-bottom: 24px;
+        }
+        .legend-title { color: #7c3aed; font-weight: bold; margin-bottom: 8px; }
+        .legend-item { color: #888; font-size: 12px; margin: 4px 0; }
+        .footer {
+            margin-top: 32px;
+            padding-top: 16px;
+            border-top: 1px solid #333;
+            color: #666;
+            font-size: 12px;
+            text-align: center;
+        }
+        .timestamp { color: #ec4899; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="index.html" class="back-link">&larr; Back to Index</a>
+        <h1>DOCUMENT CLOSURE</h1>
+        <div class="subtitle">Track document completion across all organizations</div>
+
+        <div class="compliance-score" style="background: #1a2e1a; padding: 24px; border-radius: 8px; margin-bottom: 24px; text-align: center;">
+            <div style="font-size: 48px; font-weight: bold; color: #22c55e;">52%</div>
+            <div style="color: #888; font-size: 14px;">Overall Compliance Score</div>
+            <div style="color: #666; font-size: 11px; margin-top: 8px;">Continual Improvement Tracking</div>
+        </div>
+
+        <div class="legend">
+            <div class="legend-title">Compliance Scoring</div>
+            <div class="legend-item">CANON.md - Governance axiom (30 pts)</div>
+            <div class="legend-item">README.md - Documentation (20 pts)</div>
+            <div class="legend-item">*.idf - Ledger entries (up to 30 pts)</div>
+            <div class="legend-item">Demo - Interactive demo (20 pts)</div>
+        </div>
+
+        <table>
+            <tr>
+                <th>Organization</th>
+                <th>CANON.md</th>
+                <th>README.md</th>
+                <th>IDFs</th>
+                <th>Score</th>
+            </tr>
+            
+        <tr>
+            <td class="org-name">canonic-foundation</td>
+            <td><span class="status-closed">CLOSED</span></td>
+            <td><span class="status-closed">CLOSED</span></td>
+            <td><span class="status-open">NONE</span></td>
+            <td><span class="status-planned">50%</span></td>
+        </tr>
+        <tr>
+            <td class="org-name">canonic-shop</td>
+            <td><span class="status-closed">CLOSED</span></td>
+            <td><span class="status-closed">CLOSED</span></td>
+            <td><span class="status-open">NONE</span></td>
+            <td><span class="status-planned">50%</span></td>
+        </tr>
+        <tr>
+            <td class="org-name">hadleylab-dexter</td>
+            <td><span class="status-closed">CLOSED</span></td>
+            <td><span class="status-closed">CLOSED</span></td>
+            <td><span class="status-open">NONE</span></td>
+            <td><span class="status-closed">70%</span></td>
+        </tr>
+        <tr>
+            <td class="org-name">adventhealth-rob</td>
+            <td><span class="status-closed">CLOSED</span></td>
+            <td><span class="status-closed">CLOSED</span></td>
+            <td><span class="status-open">NONE</span></td>
+            <td><span class="status-planned">50%</span></td>
+        </tr>
+        <tr>
+            <td class="org-name">canonic-domains</td>
+            <td><span class="status-closed">CLOSED</span></td>
+            <td><span class="status-closed">CLOSED</span></td>
+            <td><span class="status-open">NONE</span></td>
+            <td><span class="status-planned">50%</span></td>
+        </tr>
+        <tr>
+            <td class="org-name">canonic-operations</td>
+            <td><span class="status-closed">CLOSED</span></td>
+            <td><span class="status-closed">CLOSED</span></td>
+            <td><span class="status-open">NONE</span></td>
+            <td><span class="status-planned">50%</span></td>
+        </tr>
+        <tr>
+            <td class="org-name">canonic-discovery</td>
+            <td><span class="status-closed">CLOSED</span></td>
+            <td><span class="status-closed">CLOSED</span></td>
+            <td><span class="status-open">NONE</span></td>
+            <td><span class="status-planned">50%</span></td>
+        </tr>
+        </table>
+
+        <div class="footer">
+            Built by FaaS | <span class="timestamp">2026-01-30 20:08 UTC</span>
+        </div>
+    </div>
+</body>
+</html>

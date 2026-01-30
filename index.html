@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CANONIC Runtime</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'SF Mono', monospace; background: #0a0a0a; color: #e0e0e0; min-height: 100vh; padding: 40px 20px; }
+        .container { max-width: 900px; margin: 0 auto; }
+        h1 { font-size: 32px; margin-bottom: 8px; color: #7c3aed; }
+        .subtitle { color: #888; margin-bottom: 32px; }
+        .orgs { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 16px; }
+        .org { background: #1a1a2e; padding: 20px; border-radius: 8px; text-decoration: none; display: block; }
+        .org:hover { transform: translateY(-2px); box-shadow: 0 4px 12px rgba(124,58,237,0.3); }
+        .org-name { font-size: 18px; font-weight: bold; color: #7c3aed; }
+        .primitives { display: flex; gap: 8px; margin: 24px 0; }
+        .primitive { background: #1a2e1a; color: #22c55e; padding: 8px 16px; border-radius: 4px; font-size: 12px; }
+        .footer { margin-top: 32px; padding-top: 16px; border-top: 1px solid #333; color: #666; font-size: 12px; text-align: center; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>CANONIC Runtime</h1>
+        <div class="subtitle">AGENT → Language → Template → Deploy</div>
+        <div class="primitives">
+            <span class="primitive">AGENT</span>
+            <span class="primitive">EVO</span>
+            <span class="primitive">CHAT</span>
+            <span class="primitive">SHOP</span>
+        </div>
+        <div class="orgs">
+            <a href="/canonic-foundation/" class="org"><span class="org-name">CANONIC-FOUNDATION</span></a>
+            <a href="/canonic-shop/" class="org"><span class="org-name">CANONIC-SHOP</span></a>
+            <a href="/hadleylab-dexter/" class="org"><span class="org-name">HADLEYLAB-DEXTER</span></a>
+            <a href="/adventhealth-rob/" class="org"><span class="org-name">ADVENTHEALTH-ROB</span></a>
+            <a href="/canonic-domains/" class="org"><span class="org-name">CANONIC-DOMAINS</span></a>
+            <a href="/canonic-operations/" class="org"><span class="org-name">CANONIC-OPERATIONS</span></a>
+            <a href="/canonic-discovery/" class="org"><span class="org-name">CANONIC-DISCOVERY</span></a>
+        </div>
+        <div class="footer">VaaS + FaaS | Cloudflare Pages</div>
+    </div>
+</body>
+</html>
