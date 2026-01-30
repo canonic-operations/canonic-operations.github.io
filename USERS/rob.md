@@ -1,13 +1,15 @@
-# AdventHealth — Rob Herzog
+# Rob Herzog
 
 inherits: /CANONIC/OPERATIONS/USERS/
+
+## Orgs
+- AdventHealth (strategy/innovation)
 
 ## Contact
 - Phone: +13212171179
 
-## Org
-**AdventHealth**
-- Innovation/Strategy role
+## Role
+- Innovation/Strategy
 - Tampa facility connection
 - Budget authority
 - Works with AMN (upline)

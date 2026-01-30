@@ -1,16 +1,13 @@
-# ABOPM — Anil Bajnath, MD
+# Anil Bajnath, MD
 
 inherits: /CANONIC/OPERATIONS/USERS/
+
+## Orgs
+- ABOPM (founder)
 
 ## Contact
 - Phone: +19549077999
 - Email: ABajnathMD@gmail.com
-
-## Org
-**American Board of Precision Medicine (ABOPM)**
-- Board-certified physician, founder
-- Education, certification, and innovative solutions for healthcare professionals
-- Mid-Atlantic (Maryland) based
 
 ## Connection
 - Via Vishal (ABOPM) and Val Torres
