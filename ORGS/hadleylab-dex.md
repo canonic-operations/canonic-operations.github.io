@@ -1,12 +1,12 @@
-# Dexter Hadley, MD PhD
+# HadleyLab — Dex
 
 inherits: /CANONIC/OPERATIONS/USERS/
 
 ## Orgs
-- HadleyLab (primary)
-- Canonic Foundation
-- UCF (affiliate)
-- AdventHealth (collaborator)
+- HadleyLab (founder)
+
+## Also
+- canonic-dex
 
 ## Contact
 - Phone: +12156810268
@@ -15,6 +15,7 @@ inherits: /CANONIC/OPERATIONS/USERS/
 - Founder, MammoChat
 - AI/ML researcher
 - Precision medicine
+- UCSF network (Atul Butte Mafia)
 
 ## Status
-- Active across all orgs
+- Active
