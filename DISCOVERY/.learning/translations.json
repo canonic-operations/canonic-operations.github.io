@@ -1,0 +1,11 @@
+{
+  "APPSTORE": "SHOP",
+  "EVOLUTION": "EVO",
+  "NODE": "AGENT",
+  "STORE": "SHOP",
+  "build": "Render",
+  "frontend": "FaaS",
+  "learns from": "LEARNING",
+  "validation": "VaaS",
+  "validator": "VaaS"
+}

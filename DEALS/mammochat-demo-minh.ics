@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Canonic//MammoChat//EN
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20260209T180000Z
+DTEND:20260209T181500Z
+DTSTAMP:20260130T120000Z
+UID:mammochat-demo-minh-20260209@canonic.io
+ORGANIZER;CN=Dexter Hadley:mailto:idrdex@mammochat.com
+ATTENDEE;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Minh Trinh Nguyen:mailto:minhtrihnguyen@gmail.com
+SUMMARY:MammoChat Demo
+DESCRIPTION:MammoChat demo - addressing DCIS vs invasive feedback. Full rebuild complete.
+LOCATION:Video Call
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

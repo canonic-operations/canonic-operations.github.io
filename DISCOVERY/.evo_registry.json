@@ -1,0 +1,2555 @@
+{
+  "patterns": {
+    "7ccdc4eb71fff632": {
+      "idf": "IDF-0001",
+      "source": "canonic-foundation/AGENT.md",
+      "date": "2026-01-30T21:17:53.930819+00:00"
+    },
+    "17c2c699dfaca4bb": {
+      "idf": "IDF-0002",
+      "source": "canonic-foundation/README.md",
+      "date": "2026-01-30T21:17:53.930979+00:00"
+    },
+    "c14b85bb6cb4d5a3": {
+      "idf": "IDF-0003",
+      "source": "canonic-foundation/COVERAGE.md",
+      "date": "2026-01-30T21:17:53.931211+00:00"
+    },
+    "13cfc0eccf44b942": {
+      "idf": "IDF-0004",
+      "source": "canonic-foundation/FOUNDATION.md",
+      "date": "2026-01-30T21:17:53.931382+00:00"
+    },
+    "b5b0253b41fb6064": {
+      "idf": "IDF-0005",
+      "source": "canonic-foundation/EVOLUTION.md",
+      "date": "2026-01-30T21:17:53.931576+00:00"
+    },
+    "e32f66ba774f52b1": {
+      "idf": "IDF-0006",
+      "source": "canonic-foundation/CHAT/META.md",
+      "date": "2026-01-30T21:17:53.931716+00:00"
+    },
+    "e6c1cfaa0b63b46f": {
+      "idf": "IDF-0007",
+      "source": "canonic-foundation/CHAT/HUMAN.md",
+      "date": "2026-01-30T21:17:53.931832+00:00"
+    },
+    "687cced3994317c6": {
+      "idf": "IDF-0008",
+      "source": "canonic-foundation/INTELLIGENCE/CANON.md",
+      "date": "2026-01-30T21:17:53.932077+00:00"
+    },
+    "9979ba1beb67b179": {
+      "idf": "IDF-0009",
+      "source": "canonic-foundation/DETROS/VOCAB.md",
+      "date": "2026-01-30T21:17:53.932212+00:00"
+    },
+    "fa7a89f7921a20c5": {
+      "idf": "IDF-0010",
+      "source": "canonic-foundation/DETROS/CANON.md",
+      "date": "2026-01-30T21:17:53.932320+00:00"
+    },
+    "bbd04d4f112a4574": {
+      "idf": "IDF-0011",
+      "source": "canonic-foundation/LANGUAGE/LANGUAGE.md",
+      "date": "2026-01-30T21:17:53.932504+00:00"
+    },
+    "b6b09aefa7f7da66": {
+      "idf": "IDF-0012",
+      "source": "canonic-foundation/LANGUAGE/VOCAB.md",
+      "date": "2026-01-30T21:17:53.932638+00:00"
+    },
+    "c032fb620caacbb1": {
+      "idf": "IDF-0013",
+      "source": "canonic-foundation/COMPLIANCE/BUSINESS.md",
+      "date": "2026-01-30T21:17:53.932746+00:00"
+    },
+    "7467f8c62c67f35d": {
+      "idf": "IDF-0014",
+      "source": "canonic-foundation/COMPLIANCE/COMMUNITY.md",
+      "date": "2026-01-30T21:17:53.932849+00:00"
+    },
+    "2f17eb2186fa1643": {
+      "idf": "IDF-0015",
+      "source": "canonic-foundation/COMPLIANCE/CLOSURE.md",
+      "date": "2026-01-30T21:17:53.932952+00:00"
+    },
+    "51915655d05372ca": {
+      "idf": "IDF-0016",
+      "source": "canonic-foundation/COMPLIANCE/ENTERPRISE.md",
+      "date": "2026-01-30T21:17:53.933072+00:00"
+    },
+    "64c61bc21879ee14": {
+      "idf": "IDF-0017",
+      "source": "canonic-foundation/COMPLIANCE/PUBLICATIONS.md",
+      "date": "2026-01-30T21:17:53.933433+00:00"
+    },
+    "dc17644596b01e43": {
+      "idf": "IDF-0018",
+      "source": "canonic-foundation/COMPLIANCE/ROADMAP.md",
+      "date": "2026-01-30T21:17:53.933562+00:00"
+    },
+    "9351081357ca91a4": {
+      "idf": "IDF-0019",
+      "source": "canonic-foundation/COMPLIANCE/CANON.md",
+      "date": "2026-01-30T21:17:53.933691+00:00"
+    },
+    "bc8a90d9e6903a85": {
+      "idf": "IDF-0020",
+      "source": "canonic-foundation/COMPLIANCE/FOUNDATION.md",
+      "date": "2026-01-30T21:17:53.933818+00:00"
+    },
+    "85f8bb58421e82d7": {
+      "idf": "IDF-0021",
+      "source": "canonic-foundation/EVOLUTION/CANON.md",
+      "date": "2026-01-30T21:17:53.933966+00:00"
+    },
+    "e6f08b62f0fce087": {
+      "idf": "IDF-0022",
+      "source": "canonic-foundation/TEMPLATES/TEMPLATES.md",
+      "date": "2026-01-30T21:17:53.934089+00:00"
+    },
+    "ef828568147f2265": {
+      "idf": "IDF-0023",
+      "source": "canonic-foundation/TEMPLATES/PAPER/CANON.md",
+      "date": "2026-01-30T21:17:53.934250+00:00"
+    },
+    "d74d20781a18d5bf": {
+      "idf": "IDF-0024",
+      "source": "canonic-foundation/TEMPLATES/FRONTEND/CANON.md",
+      "date": "2026-01-30T21:17:53.934389+00:00"
+    },
+    "484903b10c80b8a2": {
+      "idf": "IDF-0025",
+      "source": "canonic-foundation/TEMPLATES/CHAT/CANON.md",
+      "date": "2026-01-30T21:17:53.934522+00:00"
+    },
+    "1c2fbec18e89fc14": {
+      "idf": "IDF-0026",
+      "source": "canonic-foundation/TEMPLATES/VITAE/CANON.md",
+      "date": "2026-01-30T21:17:53.934734+00:00"
+    },
+    "23fb6ca9f24c1123": {
+      "idf": "IDF-0027",
+      "source": "canonic-foundation/TEMPLATES/BLOG/CANON.md",
+      "date": "2026-01-30T21:17:53.934889+00:00"
+    },
+    "e39eb7545c3a84cf": {
+      "idf": "IDF-0028",
+      "source": "canonic-foundation/TEMPLATES/BOOK/CANON.md",
+      "date": "2026-01-30T21:17:53.935013+00:00"
+    },
+    "439c0566cecb95e6": {
+      "idf": "IDF-0029",
+      "source": "canonic-foundation/COMPLIANCE/EVO/CANON.md",
+      "date": "2026-01-30T21:17:53.935192+00:00"
+    },
+    "e461d0a55c3ad88e": {
+      "idf": "IDF-0030",
+      "source": "canonic-foundation/COMPLIANCE/LEARNING/README.md",
+      "date": "2026-01-30T21:17:53.935304+00:00"
+    },
+    "63b742bf6a8e5704": {
+      "idf": "IDF-0031",
+      "source": "canonic-foundation/COMPLIANCE/LEARNING/CANON.md",
+      "date": "2026-01-30T21:17:53.935547+00:00"
+    },
+    "49be85774b01457d": {
+      "idf": "IDF-0032",
+      "source": "canonic-foundation/COMPLIANCE/FaaS/CANON.md",
+      "date": "2026-01-30T21:17:53.935697+00:00"
+    },
+    "252392c963d276f2": {
+      "idf": "IDF-0033",
+      "source": "canonic-foundation/COMPLIANCE/VaaS/CANON.md",
+      "date": "2026-01-30T21:17:53.935830+00:00"
+    },
+    "c15f5f73c30208b0": {
+      "idf": "IDF-0375",
+      "source": "retired/canonic-machine/canonic/MACHINE/MACHINE.md",
+      "date": "2026-01-30T21:17:54.001289+00:00"
+    },
+    "7781990338ef8ff9": {
+      "idf": "IDF-0035",
+      "source": "canonic-foundation/DETROS/TEMPORAL/README.md",
+      "date": "2026-01-30T21:17:53.936045+00:00"
+    },
+    "24f523114981bd25": {
+      "idf": "IDF-0036",
+      "source": "canonic-foundation/DETROS/TEMPORAL/TEMPORAL.md",
+      "date": "2026-01-30T21:17:53.936164+00:00"
+    },
+    "bb2a13b682b7d31b": {
+      "idf": "IDF-0037",
+      "source": "canonic-foundation/DETROS/RELATIONAL/RELATIONAL.md",
+      "date": "2026-01-30T21:17:53.936312+00:00"
+    },
+    "508c0b857ac8d216": {
+      "idf": "IDF-0038",
+      "source": "canonic-foundation/DETROS/DECLARATIVE/README.md",
+      "date": "2026-01-30T21:17:53.936434+00:00"
+    },
+    "593d81238edb2cbd": {
+      "idf": "IDF-0039",
+      "source": "canonic-foundation/DETROS/DECLARATIVE/VOCAB.md",
+      "date": "2026-01-30T21:17:53.936589+00:00"
+    },
+    "3243ce959b4f0592": {
+      "idf": "IDF-0040",
+      "source": "canonic-foundation/DETROS/DECLARATIVE/CANON.md",
+      "date": "2026-01-30T21:17:53.936732+00:00"
+    },
+    "9e3534716aa4b560": {
+      "idf": "IDF-0041",
+      "source": "canonic-foundation/DETROS/EVIDENTIAL/README.md",
+      "date": "2026-01-30T21:17:53.936872+00:00"
+    },
+    "f7013fe1fc5b7b6e": {
+      "idf": "IDF-0042",
+      "source": "canonic-foundation/DETROS/EVIDENTIAL/VOCAB.md",
+      "date": "2026-01-30T21:17:53.936993+00:00"
+    },
+    "e2baa43c9297ed8c": {
+      "idf": "IDF-0043",
+      "source": "canonic-foundation/DETROS/EVIDENTIAL/CANON.md",
+      "date": "2026-01-30T21:17:53.937127+00:00"
+    },
+    "fb9d17ff60dffdcc": {
+      "idf": "IDF-0044",
+      "source": "canonic-foundation/DETROS/EVIDENTIAL/EVIDENTIAL.md",
+      "date": "2026-01-30T21:17:53.937252+00:00"
+    },
+    "bda7223b0411e349": {
+      "idf": "IDF-0045",
+      "source": "canonic-foundation/DETROS/STRUCTURAL/STRUCTURAL.md",
+      "date": "2026-01-30T21:17:53.937374+00:00"
+    },
+    "f1e4e4d8eadc786c": {
+      "idf": "IDF-0046",
+      "source": "canonic-foundation/DETROS/OPERATIONAL/OPERATIONAL.md",
+      "date": "2026-01-30T21:17:53.937500+00:00"
+    },
+    "af8ed2082754b862": {
+      "idf": "IDF-0047",
+      "source": "canonic-foundation/INTELLIGENCE/VITAECHAT/CANON.md",
+      "date": "2026-01-30T21:17:53.937741+00:00"
+    },
+    "5fa42e0125b3afed": {
+      "idf": "IDF-0048",
+      "source": "canonic-foundation/INTELLIGENCE/CANONCHAT/CANON.md",
+      "date": "2026-01-30T21:17:53.937962+00:00"
+    },
+    "b3d57d31f7b7786f": {
+      "idf": "IDF-0049",
+      "source": "canonic-foundation/INTELLIGENCE/MAMMOCHAT/CANON.md",
+      "date": "2026-01-30T21:17:53.938113+00:00"
+    },
+    "216103d58583fb71": {
+      "idf": "IDF-0050",
+      "source": "canonic-foundation/INTELLIGENCE/LEARNINGCHAT/CANON.md",
+      "date": "2026-01-30T21:17:53.938255+00:00"
+    },
+    "8a34a2b33b941646": {
+      "idf": "IDF-0051",
+      "source": "canonic-foundation/INTELLIGENCE/VOCABCHAT/CANON.md",
+      "date": "2026-01-30T21:17:53.938415+00:00"
+    },
+    "9bba647210ef30ec": {
+      "idf": "IDF-0052",
+      "source": "canonic-foundation/INTELLIGENCE/TRIALSCHAT/CANON.md",
+      "date": "2026-01-30T21:17:53.938552+00:00"
+    },
+    "e1d72a1cb752a59c": {
+      "idf": "IDF-0053",
+      "source": "canonic-foundation/INTELLIGENCE/IDFCHAT/CANON.md",
+      "date": "2026-01-30T21:17:53.938777+00:00"
+    },
+    "b2a205b378626cdf": {
+      "idf": "IDF-0054",
+      "source": "canonic-foundation/INTELLIGENCE/MATCHINGCHAT/CANON.md",
+      "date": "2026-01-30T21:17:53.938911+00:00"
+    },
+    "68d249c222b0f9f3": {
+      "idf": "IDF-0055",
+      "source": "canonic-foundation/INTELLIGENCE/DISCOVERYCHAT/CANON.md",
+      "date": "2026-01-30T21:17:53.939055+00:00"
+    },
+    "affdab6eada081a4": {
+      "idf": "IDF-0056",
+      "source": "canonic-foundation/CHAT/READING/README.md",
+      "date": "2026-01-30T21:17:53.939175+00:00"
+    },
+    "f101dfcd34874e88": {
+      "idf": "IDF-0057",
+      "source": "canonic-foundation/CHAT/READING/READING.md",
+      "date": "2026-01-30T21:17:53.939294+00:00"
+    },
+    "ed3dc6a0d110f2a4": {
+      "idf": "IDF-0058",
+      "source": "canonic-foundation/CHAT/EVIDENTIAL/PROTOCOL.md",
+      "date": "2026-01-30T21:17:53.939433+00:00"
+    },
+    "c755a136e4e777c0": {
+      "idf": "IDF-0059",
+      "source": "canonic-foundation/CHAT/LEGAL/PRIVACY.md",
+      "date": "2026-01-30T21:17:53.939559+00:00"
+    },
+    "0243dcb4ace7030e": {
+      "idf": "IDF-0060",
+      "source": "canonic-foundation/CHAT/LEGAL/TOKEN.md",
+      "date": "2026-01-30T21:17:53.939717+00:00"
+    },
+    "bfcee7effa4696c3": {
+      "idf": "IDF-0061",
+      "source": "canonic-foundation/CHAT/LEGAL/VOCAB.md",
+      "date": "2026-01-30T21:17:53.939859+00:00"
+    },
+    "94f270bf7eb9d553": {
+      "idf": "IDF-0062",
+      "source": "canonic-foundation/CHAT/LEGAL/LEGAL.md",
+      "date": "2026-01-30T21:17:53.940025+00:00"
+    },
+    "8ab415abe45248b9": {
+      "idf": "IDF-0063",
+      "source": "canonic-foundation/CHAT/LEGAL/TERMS.md",
+      "date": "2026-01-30T21:17:53.940165+00:00"
+    },
+    "9d3862a7aeadf6cc": {
+      "idf": "IDF-0064",
+      "source": "canonic-foundation/CHAT/LEGAL/CANON.md",
+      "date": "2026-01-30T21:17:53.940314+00:00"
+    },
+    "1f07e43691728091": {
+      "idf": "IDF-0065",
+      "source": "canonic-foundation/CHAT/LEGAL/PATENT.md",
+      "date": "2026-01-30T21:17:53.940557+00:00"
+    },
+    "fcf25ec9a2ea1806": {
+      "idf": "IDF-0066",
+      "source": "canonic-foundation/CHAT/WRITING/README.md",
+      "date": "2026-01-30T21:17:53.940687+00:00"
+    },
+    "05eb5184c053b004": {
+      "idf": "IDF-0067",
+      "source": "canonic-foundation/CHAT/WRITING/WRITING.md",
+      "date": "2026-01-30T21:17:53.940815+00:00"
+    },
+    "7fe93f1b60140ff1": {
+      "idf": "IDF-0143",
+      "source": "canonic-shop/README.md",
+      "date": "2026-01-30T21:17:53.951295+00:00"
+    },
+    "be3348ee547428de": {
+      "idf": "IDF-0144",
+      "source": "canonic-shop/VOCAB.md",
+      "date": "2026-01-30T21:17:53.951473+00:00"
+    },
+    "0ac0b5f37f948e26": {
+      "idf": "IDF-0145",
+      "source": "canonic-shop/CANON.md",
+      "date": "2026-01-30T21:17:53.951657+00:00"
+    },
+    "1029acca97b03494": {
+      "idf": "IDF-0146",
+      "source": "canonic-shop/EVOLUTION.md",
+      "date": "2026-01-30T21:17:53.951783+00:00"
+    },
+    "68c5dd0414d7a30b": {
+      "idf": "IDF-0147",
+      "source": "canonic-shop/EVO/README.md",
+      "date": "2026-01-30T21:17:53.951890+00:00"
+    },
+    "e6b17d2b9935318a": {
+      "idf": "IDF-0148",
+      "source": "canonic-shop/EVO/VOCAB.md",
+      "date": "2026-01-30T21:17:53.952010+00:00"
+    },
+    "d521afb7339d85d5": {
+      "idf": "IDF-0149",
+      "source": "canonic-shop/EVO/CANON.md",
+      "date": "2026-01-30T21:17:53.952188+00:00"
+    },
+    "93cf37b46294e55c": {
+      "idf": "IDF-0150",
+      "source": "canonic-shop/CHAT/README.md",
+      "date": "2026-01-30T21:17:53.952318+00:00"
+    },
+    "9b9adcf0d6cf843b": {
+      "idf": "IDF-0151",
+      "source": "canonic-shop/LEARNING/CANON.md",
+      "date": "2026-01-30T21:17:53.952456+00:00"
+    },
+    "5c67fd97b4bc13fb": {
+      "idf": "IDF-0152",
+      "source": "canonic-shop/FaaS/README.md",
+      "date": "2026-01-30T21:17:53.952560+00:00"
+    },
+    "6bdefad67e9dc494": {
+      "idf": "IDF-0153",
+      "source": "canonic-shop/FaaS/VOCAB.md",
+      "date": "2026-01-30T21:17:53.952682+00:00"
+    },
+    "e02a0c7fa2dd332e": {
+      "idf": "IDF-0154",
+      "source": "canonic-shop/AGENT/README.md",
+      "date": "2026-01-30T21:17:53.952811+00:00"
+    },
+    "d4b0ecf89a5ce73e": {
+      "idf": "IDF-0155",
+      "source": "canonic-shop/AGENT/CANON.md",
+      "date": "2026-01-30T21:17:53.952942+00:00"
+    },
+    "7df116c7843d661a": {
+      "idf": "IDF-0156",
+      "source": "canonic-shop/COIN/README.md",
+      "date": "2026-01-30T21:17:53.953045+00:00"
+    },
+    "3d01aaae8965444e": {
+      "idf": "IDF-0157",
+      "source": "canonic-shop/COIN/CANON.md",
+      "date": "2026-01-30T21:17:53.953187+00:00"
+    },
+    "2c290eeaee764150": {
+      "idf": "IDF-0158",
+      "source": "canonic-shop/WALLET/README.md",
+      "date": "2026-01-30T21:17:53.953304+00:00"
+    },
+    "7067e32bb8c85cdc": {
+      "idf": "IDF-0159",
+      "source": "canonic-shop/WALLET/VOCAB.md",
+      "date": "2026-01-30T21:17:53.953430+00:00"
+    },
+    "1cc39c51f3369d07": {
+      "idf": "IDF-0160",
+      "source": "canonic-shop/WALLET/CANON.md",
+      "date": "2026-01-30T21:17:53.953584+00:00"
+    },
+    "2b2fa47bc564eb1b": {
+      "idf": "IDF-0161",
+      "source": "canonic-shop/VaaS/README.md",
+      "date": "2026-01-30T21:17:53.953690+00:00"
+    },
+    "dac8d4483a923534": {
+      "idf": "IDF-0162",
+      "source": "canonic-shop/VaaS/VOCAB.md",
+      "date": "2026-01-30T21:17:53.953809+00:00"
+    },
+    "69d56bb535bed4ad": {
+      "idf": "IDF-0163",
+      "source": "canonic-shop/VAULT/README.md",
+      "date": "2026-01-30T21:17:53.953923+00:00"
+    },
+    "930053d8466b792b": {
+      "idf": "IDF-0164",
+      "source": "canonic-shop/VAULT/VOCAB.md",
+      "date": "2026-01-30T21:17:53.954040+00:00"
+    },
+    "6fdc64173f1c8896": {
+      "idf": "IDF-0165",
+      "source": "canonic-shop/VAULT/CANON.md",
+      "date": "2026-01-30T21:17:53.954190+00:00"
+    },
+    "4e5e18ce7b5d28cd": {
+      "idf": "IDF-0166",
+      "source": "canonic-shop/HADLEYLAB/README.md",
+      "date": "2026-01-30T21:17:53.954322+00:00"
+    },
+    "35b84e2d69566a40": {
+      "idf": "IDF-0167",
+      "source": "canonic-shop/HADLEYLAB/CANON.md",
+      "date": "2026-01-30T21:17:53.954467+00:00"
+    },
+    "a699082bccdafb1f": {
+      "idf": "IDF-0168",
+      "source": "canonic-shop/MED/README.md",
+      "date": "2026-01-30T21:17:53.954586+00:00"
+    },
+    "f0f14b1798b498e0": {
+      "idf": "IDF-0169",
+      "source": "canonic-shop/MED/CANON.md",
+      "date": "2026-01-30T21:17:53.954709+00:00"
+    },
+    "4cbb1ddb7ce6fc3e": {
+      "idf": "IDF-0170",
+      "source": "canonic-shop/MED/COVERAGE.md",
+      "date": "2026-01-30T21:17:53.954829+00:00"
+    },
+    "6fe36e18cf70f25b": {
+      "idf": "IDF-0171",
+      "source": "canonic-shop/MED/LEDGER/CANON.md",
+      "date": "2026-01-30T21:17:53.954985+00:00"
+    },
+    "9c766fdffaddd3e1": {
+      "idf": "IDF-0172",
+      "source": "canonic-shop/MED/EVIDENCE/CANON.md",
+      "date": "2026-01-30T21:17:53.955119+00:00"
+    },
+    "9ef8ba39fb0f95af": {
+      "idf": "IDF-0173",
+      "source": "canonic-shop/MED/SCHEMA/CANON.md",
+      "date": "2026-01-30T21:17:53.955255+00:00"
+    },
+    "ee5cee5449a43617": {
+      "idf": "IDF-0174",
+      "source": "canonic-shop/MED/ONCO/README.md",
+      "date": "2026-01-30T21:17:53.955380+00:00"
+    },
+    "dca4df613c0fc719": {
+      "idf": "IDF-0175",
+      "source": "canonic-shop/MED/ONCO/CANON.md",
+      "date": "2026-01-30T21:17:53.955522+00:00"
+    },
+    "1a4018584c093a81": {
+      "idf": "IDF-0176",
+      "source": "canonic-shop/MED/ONCO/COVERAGE.md",
+      "date": "2026-01-30T21:17:53.955644+00:00"
+    },
+    "9dd5aa162005b6f2": {
+      "idf": "IDF-0177",
+      "source": "canonic-shop/MED/ENGINE/CANON.md",
+      "date": "2026-01-30T21:17:53.955790+00:00"
+    },
+    "8c56f11eeae65c46": {
+      "idf": "IDF-0178",
+      "source": "canonic-shop/MED/ONCO/EVIDENCE/CANON.md",
+      "date": "2026-01-30T21:17:53.955905+00:00"
+    },
+    "5e116c5bd3b50388": {
+      "idf": "IDF-0179",
+      "source": "canonic-shop/MED/ONCO/MAMMO/LANGUAGE.md",
+      "date": "2026-01-30T21:17:53.956193+00:00"
+    },
+    "876995527bdc9018": {
+      "idf": "IDF-0180",
+      "source": "canonic-shop/MED/ONCO/MAMMO/README.md",
+      "date": "2026-01-30T21:17:53.956311+00:00"
+    },
+    "476386925328362f": {
+      "idf": "IDF-0181",
+      "source": "canonic-shop/MED/ONCO/MAMMO/ROADMAP.md",
+      "date": "2026-01-30T21:17:53.956452+00:00"
+    },
+    "ed9ef5466ffe515b": {
+      "idf": "IDF-0182",
+      "source": "canonic-shop/MED/ONCO/MAMMO/CANON.md",
+      "date": "2026-01-30T21:17:53.956586+00:00"
+    },
+    "71f1172a33f7cef8": {
+      "idf": "IDF-0183",
+      "source": "canonic-shop/MED/ONCO/MAMMO/COVERAGE.md",
+      "date": "2026-01-30T21:17:53.956709+00:00"
+    },
+    "79c2d9a109d527dd": {
+      "idf": "IDF-0184",
+      "source": "canonic-shop/MED/ONCO/MAMMO/EVIDENCE/CANON.md",
+      "date": "2026-01-30T21:17:53.956855+00:00"
+    },
+    "31374af7d6206fe5": {
+      "idf": "IDF-0185",
+      "source": "canonic-shop/MED/ONCO/EVIDENCE/MCODE/README.md",
+      "date": "2026-01-30T21:17:53.956948+00:00"
+    },
+    "422227e66b362c45": {
+      "idf": "IDF-0186",
+      "source": "canonic-shop/HADLEYLAB/PAPERS/README.md",
+      "date": "2026-01-30T21:17:53.957056+00:00"
+    },
+    "cb936cbad24cb5be": {
+      "idf": "IDF-0187",
+      "source": "canonic-shop/HADLEYLAB/PAPERS/CANON.md",
+      "date": "2026-01-30T21:17:53.957207+00:00"
+    },
+    "d06e402956bbce6c": {
+      "idf": "IDF-0188",
+      "source": "canonic-shop/HADLEYLAB/VITAE/README.md",
+      "date": "2026-01-30T21:17:53.957339+00:00"
+    },
+    "6d14b307e909e71a": {
+      "idf": "IDF-0189",
+      "source": "canonic-shop/HADLEYLAB/VITAE/CANON.md",
+      "date": "2026-01-30T21:17:53.957543+00:00"
+    },
+    "81039fe3aa6aa264": {
+      "idf": "IDF-0190",
+      "source": "canonic-shop/HADLEYLAB/BOOKS/README.md",
+      "date": "2026-01-30T21:17:53.957656+00:00"
+    },
+    "80e7ced920fc8241": {
+      "idf": "IDF-0191",
+      "source": "canonic-shop/HADLEYLAB/BLOG/README.md",
+      "date": "2026-01-30T21:17:53.957766+00:00"
+    },
+    "45067d904ade8aab": {
+      "idf": "IDF-0192",
+      "source": "canonic-shop/HADLEYLAB/BLOG/CANON.md",
+      "date": "2026-01-30T21:17:53.957869+00:00"
+    },
+    "57382f3c86e75fca": {
+      "idf": "IDF-0193",
+      "source": "canonic-shop/HADLEYLAB/PAPERS/MAMMOCHAT/CANON.md",
+      "date": "2026-01-30T21:17:53.958017+00:00"
+    },
+    "0709d2900856a005": {
+      "idf": "IDF-0194",
+      "source": "canonic-shop/HADLEYLAB/PAPERS/CANONIC/CANON.md",
+      "date": "2026-01-30T21:17:53.958160+00:00"
+    },
+    "4592e6fe5bca9515": {
+      "idf": "IDF-0120",
+      "source": "canonic-domains/README.md",
+      "date": "2026-01-30T21:17:53.947977+00:00"
+    },
+    "3798318a6fa3fb4e": {
+      "idf": "IDF-0121",
+      "source": "canonic-domains/CANON.md",
+      "date": "2026-01-30T21:17:53.948105+00:00"
+    },
+    "fc819aad71e76531": {
+      "idf": "IDF-0122",
+      "source": "canonic-domains/COVERAGE.md",
+      "date": "2026-01-30T21:17:53.948232+00:00"
+    },
+    "cd7bfed45990aca6": {
+      "idf": "IDF-0123",
+      "source": "canonic-domains/ONCO/CANON.md",
+      "date": "2026-01-30T21:17:53.948354+00:00"
+    },
+    "52331d13b664bb58": {
+      "idf": "IDF-0124",
+      "source": "canonic-domains/ONCO/MCODE/README.md",
+      "date": "2026-01-30T21:17:53.948459+00:00"
+    },
+    "30dac8f4991fd946": {
+      "idf": "IDF-0125",
+      "source": "canonic-domains/ONCO/HGVS/README.md",
+      "date": "2026-01-30T21:17:53.948559+00:00"
+    },
+    "7af8a44a71a042c8": {
+      "idf": "IDF-0126",
+      "source": "canonic-domains/ONCO/TNM/README.md",
+      "date": "2026-01-30T21:17:53.948662+00:00"
+    },
+    "6615665ec9e1bdd8": {
+      "idf": "IDF-0127",
+      "source": "hadleylab-dexter/README.md",
+      "date": "2026-01-30T21:17:53.948785+00:00"
+    },
+    "3a3ba7680e492466": {
+      "idf": "IDF-0128",
+      "source": "hadleylab-dexter/CANON.md",
+      "date": "2026-01-30T21:17:53.948952+00:00"
+    },
+    "929cf1803c04f5ff": {
+      "idf": "IDF-0129",
+      "source": "hadleylab-dexter/BLOGS/CANON.md",
+      "date": "2026-01-30T21:17:53.949119+00:00"
+    },
+    "31e5445e950e0b56": {
+      "idf": "IDF-0130",
+      "source": "hadleylab-dexter/PAPERS/CANON.md",
+      "date": "2026-01-30T21:17:53.949270+00:00"
+    },
+    "1cf31445f95a56fe": {
+      "idf": "IDF-0131",
+      "source": "hadleylab-dexter/CV/VITAE.md",
+      "date": "2026-01-30T21:17:53.949459+00:00"
+    },
+    "e02a305e3eaf1cba": {
+      "idf": "IDF-0132",
+      "source": "hadleylab-dexter/CV/CANON.md",
+      "date": "2026-01-30T21:17:53.949610+00:00"
+    },
+    "55271459f4bd207b": {
+      "idf": "IDF-0133",
+      "source": "hadleylab-dexter/PAPERS/MAPS/DISCLOSURE-IDF-MAP.md",
+      "date": "2026-01-30T21:17:53.949942+00:00"
+    },
+    "0a4d045e4ce4c25c": {
+      "idf": "IDF-0134",
+      "source": "hadleylab-dexter/PAPERS/mammochat-paper/CANON.md",
+      "date": "2026-01-30T21:17:53.950114+00:00"
+    },
+    "f5a0177336d13095": {
+      "idf": "IDF-0135",
+      "source": "adventhealth-rob/CANON.md",
+      "date": "2026-01-30T21:17:53.950271+00:00"
+    },
+    "c51a06e819438db6": {
+      "idf": "IDF-0136",
+      "source": "adventhealth-rob/ROB.md",
+      "date": "2026-01-30T21:17:53.950409+00:00"
+    },
+    "9b4b95995751b8c5": {
+      "idf": "IDF-0137",
+      "source": "adventhealth-rob/PSYCHCHAT/README.md",
+      "date": "2026-01-30T21:17:53.950536+00:00"
+    },
+    "637787e93d3e69aa": {
+      "idf": "IDF-0138",
+      "source": "adventhealth-rob/PSYCHCHAT/ROADMAP.md",
+      "date": "2026-01-30T21:17:53.950702+00:00"
+    },
+    "c381557b8e15b617": {
+      "idf": "IDF-0139",
+      "source": "adventhealth-rob/PSYCHCHAT/CANON.md",
+      "date": "2026-01-30T21:17:53.950840+00:00"
+    },
+    "d86e172cc7be36a3": {
+      "idf": "IDF-0140",
+      "source": "adventhealth-rob/PSYCHCHAT/PSYCHCHAT.md",
+      "date": "2026-01-30T21:17:53.950953+00:00"
+    },
+    "c401595c26e96653": {
+      "idf": "IDF-0141",
+      "source": "adventhealth-rob/MAMMOCHAT/CANON.md",
+      "date": "2026-01-30T21:17:53.951054+00:00"
+    },
+    "60c02a0939521413": {
+      "idf": "IDF-0142",
+      "source": "adventhealth-rob/adventhealth-rob.github.io/README.md",
+      "date": "2026-01-30T21:17:53.951162+00:00"
+    },
+    "d77b1dfa242e91d5": {
+      "idf": "IDF-0195",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/TRANSCRIPTVERSE-WALK.md",
+      "date": "2026-01-30T21:17:53.958778+00:00"
+    },
+    "d6376494c79ff601": {
+      "idf": "IDF-0196",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/DISCLOSURE-IDF-MAP.md",
+      "date": "2026-01-30T21:17:53.959110+00:00"
+    },
+    "f3b8833a5201ab27": {
+      "idf": "IDF-0197",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/PATENTS.md",
+      "date": "2026-01-30T21:17:53.959279+00:00"
+    },
+    "bd093a62b36ee6b9": {
+      "idf": "IDF-0198",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/README.md",
+      "date": "2026-01-30T21:17:53.959436+00:00"
+    },
+    "e80175c7d7e41791": {
+      "idf": "IDF-0199",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/DISCLOSURE-008.md",
+      "date": "2026-01-30T21:17:53.959696+00:00"
+    },
+    "9c438a3641a9f922": {
+      "idf": "IDF-0200",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/VOCAB.md",
+      "date": "2026-01-30T21:17:53.959870+00:00"
+    },
+    "cec5f35686dc8075": {
+      "idf": "IDF-0201",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/CANONVERSE-WALK.md",
+      "date": "2026-01-30T21:17:53.960457+00:00"
+    },
+    "6a8fb45a3f48437d": {
+      "idf": "IDF-0202",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/DISCLOSURE-009.md",
+      "date": "2026-01-30T21:17:53.960714+00:00"
+    },
+    "07aea148ae8a8a33": {
+      "idf": "IDF-0203",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/CANON.md",
+      "date": "2026-01-30T21:17:53.960900+00:00"
+    },
+    "505a97d053cf789d": {
+      "idf": "IDF-0204",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/IP-COVERAGE-REPORT.md",
+      "date": "2026-01-30T21:17:53.961064+00:00"
+    },
+    "a7d371db4c27a5bd": {
+      "idf": "IDF-0205",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/ERA-4-DISTRIBUTED.md",
+      "date": "2026-01-30T21:17:53.961335+00:00"
+    },
+    "a4055c8eac936646": {
+      "idf": "IDF-0206",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/IP-EVOLUTION.md",
+      "date": "2026-01-30T21:17:53.961778+00:00"
+    },
+    "1d0c4d66d4fb45e2": {
+      "idf": "IDF-0319",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/paper-draft/output/manuscript-full.md",
+      "date": "2026-01-30T21:17:53.987377+00:00"
+    },
+    "2fbf53200787513b": {
+      "idf": "IDF-0208",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/episodes/ep004-cloud-injection-insight.md",
+      "date": "2026-01-30T21:17:53.962230+00:00"
+    },
+    "0c397975d8b90c7f": {
+      "idf": "IDF-0209",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/episodes/ep002-multi-model-insight.md",
+      "date": "2026-01-30T21:17:53.962387+00:00"
+    },
+    "db2922e6a53e7798": {
+      "idf": "IDF-0210",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/episodes/ep006-provisional-completion.md",
+      "date": "2026-01-30T21:17:53.962685+00:00"
+    },
+    "3564cc272c2d38af": {
+      "idf": "IDF-0211",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/episodes/ep003-uspto-applications-created.md",
+      "date": "2026-01-30T21:17:53.962888+00:00"
+    },
+    "052750dc39c7c58e": {
+      "idf": "IDF-0212",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/episodes/ep001-patent-drafting-initiation.md",
+      "date": "2026-01-30T21:17:53.963074+00:00"
+    },
+    "14c1bd5e372be294": {
+      "idf": "IDF-0213",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/episodes/ep005-prior-art-strengthening.md",
+      "date": "2026-01-30T21:17:53.963408+00:00"
+    },
+    "980beb619e54565a": {
+      "idf": "IDF-0214",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures/IDF-034-books-domain-governance.md",
+      "date": "2026-01-30T21:17:53.963681+00:00"
+    },
+    "75b85ee99adf1328": {
+      "idf": "IDF-0215",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures/IDF-035-clinical-healthcare-governance.md",
+      "date": "2026-01-30T21:17:53.963907+00:00"
+    },
+    "d753e4c15c20dc0c": {
+      "idf": "IDF-0216",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures/IDF-016-sentiment-discovery-mapping.md",
+      "date": "2026-01-30T21:17:53.964123+00:00"
+    },
+    "e589aef4dd4ebf64": {
+      "idf": "IDF-0217",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures/IDF-020-governance-convergence-metrics.md",
+      "date": "2026-01-30T21:17:53.964362+00:00"
+    },
+    "61eb4c3cc8aa11e2": {
+      "idf": "IDF-0218",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures/IDF-022-violation-rate-maturity-signal.md",
+      "date": "2026-01-30T21:17:53.964652+00:00"
+    },
+    "dd81df4fe1538d2e": {
+      "idf": "IDF-0219",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures/IDF-006-literal-introspection.md",
+      "date": "2026-01-30T21:17:53.964901+00:00"
+    },
+    "cb391b3937620ae1": {
+      "idf": "IDF-0220",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures/IDF-037-domain-instantiation-pattern.md",
+      "date": "2026-01-30T21:17:53.965132+00:00"
+    },
+    "a82ea7767145acff": {
+      "idf": "IDF-0221",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures/IDF-025-auto-attribution-ledger-evidence.md",
+      "date": "2026-01-30T21:17:53.965323+00:00"
+    },
+    "899a96e924d56cbe": {
+      "idf": "IDF-0222",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures/IDF-036-system-bootstrapping-protocol.md",
+      "date": "2026-01-30T21:17:53.965601+00:00"
+    },
+    "f1a94db0fd7ff0f4": {
+      "idf": "IDF-0223",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures/IDF-011-evidence-based-epistemic-writing.md",
+      "date": "2026-01-30T21:17:53.965797+00:00"
+    },
+    "5699da9d8d904833": {
+      "idf": "IDF-0224",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures/IDF-012-meta-circular-self-healing.md",
+      "date": "2026-01-30T21:17:53.966031+00:00"
+    },
+    "03d6462818d29d47": {
+      "idf": "IDF-0225",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures/IDF-018-canon-evolution-signal.md",
+      "date": "2026-01-30T21:17:53.966245+00:00"
+    },
+    "6749d4572f65a06b": {
+      "idf": "IDF-0226",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures/IDF-021-cross-system-governance-comparison.md",
+      "date": "2026-01-30T21:17:53.966470+00:00"
+    },
+    "7bc53873b01cba7e": {
+      "idf": "IDF-0227",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures/IDF-005-episodic-drift-detection.md",
+      "date": "2026-01-30T21:17:53.966674+00:00"
+    },
+    "b631f491fc1e75d4": {
+      "idf": "IDF-0228",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures/IDF-030-fixation-epistemological-closure.md",
+      "date": "2026-01-30T21:17:53.966847+00:00"
+    },
+    "aff0d49fdc0a8cd8": {
+      "idf": "IDF-0229",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures/IDF-008-deterministic-blackbox-validation.md",
+      "date": "2026-01-30T21:17:53.967043+00:00"
+    },
+    "2a90bbd1a132b78c": {
+      "idf": "IDF-0230",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures/IDF-033-grants-domain-governance.md",
+      "date": "2026-01-30T21:17:53.967234+00:00"
+    },
+    "2109f2ca8727a2e2": {
+      "idf": "IDF-0231",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures/IDF-007-hierarchical-authority-scoping.md",
+      "date": "2026-01-30T21:17:53.967456+00:00"
+    },
+    "9b85363cd4267b86": {
+      "idf": "IDF-0232",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures/IDF-032-self-grounding-semantic-bootstrap.md",
+      "date": "2026-01-30T21:17:53.967648+00:00"
+    },
+    "bbfd0e9c5af79d98": {
+      "idf": "IDF-0233",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures/IDF-028-negative-capability-framework.md",
+      "date": "2026-01-30T21:17:53.967848+00:00"
+    },
+    "341359f7e4d43935": {
+      "idf": "IDF-0234",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures/IDF-009-observational-composition.md",
+      "date": "2026-01-30T21:17:53.968021+00:00"
+    },
+    "ad726f9d0b8f42a8": {
+      "idf": "IDF-0235",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures/IDF-029-governance-phase-diagram.md",
+      "date": "2026-01-30T21:17:53.968376+00:00"
+    },
+    "464d3cc1142f5db3": {
+      "idf": "IDF-0236",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures/IDF-001-canonic-governance.md",
+      "date": "2026-01-30T21:17:53.968650+00:00"
+    },
+    "a9cdd7d1fc2030a9": {
+      "idf": "IDF-0237",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures/IDF-015-governance-quality-dimensions.md",
+      "date": "2026-01-30T21:17:53.968851+00:00"
+    },
+    "7144de2b911522b6": {
+      "idf": "IDF-0238",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures/IDF-038-realtime-vocab-closure-protocol.md",
+      "date": "2026-01-30T21:17:53.969065+00:00"
+    },
+    "9f1f583f6e7f49e5": {
+      "idf": "IDF-0239",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures/IDF-014-bidirectional-scope-boundaries.md",
+      "date": "2026-01-30T21:17:53.969274+00:00"
+    },
+    "33851645f0f38c11": {
+      "idf": "IDF-0240",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures/IDF-023-freeze-boundary-ip-protection.md",
+      "date": "2026-01-30T21:17:53.969505+00:00"
+    },
+    "67e6ba833b6cbb7a": {
+      "idf": "IDF-0241",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures/IDF-031-governance-acid-protocol.md",
+      "date": "2026-01-30T21:17:53.969718+00:00"
+    },
+    "8fc9d10ae86f3a14": {
+      "idf": "IDF-0242",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures/IDF-003-compliance-proof-chaining.md",
+      "date": "2026-01-30T21:17:53.969930+00:00"
+    },
+    "ca2da623435ab20f": {
+      "idf": "IDF-0243",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures/IDF-004-producer-consumer-governance.md",
+      "date": "2026-01-30T21:17:53.970138+00:00"
+    },
+    "183ce2c6671f9087": {
+      "idf": "IDF-0244",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures/IDF-027-ledger-defined-ontology.md",
+      "date": "2026-01-30T21:17:53.970361+00:00"
+    },
+    "54c6f20cc6e7c6ab": {
+      "idf": "IDF-0245",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures/IDF-026-forward-first-human-driven-discovery.md",
+      "date": "2026-01-30T21:17:53.970669+00:00"
+    },
+    "9f2d8a09e5344bd8": {
+      "idf": "IDF-0246",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures/IDF-002-multi-model-governance.md",
+      "date": "2026-01-30T21:17:53.970866+00:00"
+    },
+    "f80ddbd6d53de6e0": {
+      "idf": "IDF-0247",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures/IDF-017-axiom-discovery-documentation.md",
+      "date": "2026-01-30T21:17:53.971200+00:00"
+    },
+    "c36ce100f9048344": {
+      "idf": "IDF-0248",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures/IDF-024-transcript-anchored-evidence-layer.md",
+      "date": "2026-01-30T21:17:53.971406+00:00"
+    },
+    "41ce91f357e323fe": {
+      "idf": "IDF-0249",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures/IDF-019-paper-as-reproducible-template.md",
+      "date": "2026-01-30T21:17:53.971696+00:00"
+    },
+    "99c7ea7015b5b479": {
+      "idf": "IDF-0250",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures/IDF-010-violation-pattern-taxonomy.md",
+      "date": "2026-01-30T21:17:53.971905+00:00"
+    },
+    "3b0db26512fd7d5b": {
+      "idf": "IDF-0251",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures/IDF-013-canonical-locality.md",
+      "date": "2026-01-30T21:17:53.972142+00:00"
+    },
+    "45c95088949f59b7": {
+      "idf": "IDF-0252",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/applications/USPTO-001-constitutional-governance.md",
+      "date": "2026-01-30T21:17:53.972383+00:00"
+    },
+    "712933cf4b202901": {
+      "idf": "IDF-0253",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/applications/USPTO-PROVISIONAL-canonic-system.md",
+      "date": "2026-01-30T21:17:53.972662+00:00"
+    },
+    "03e8b480bc7dfdba": {
+      "idf": "IDF-0254",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-BOOK-001.md",
+      "date": "2026-01-30T21:17:53.972879+00:00"
+    },
+    "66621ca8640bf2b8": {
+      "idf": "IDF-0255",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-FOUNDATION-005.md",
+      "date": "2026-01-30T21:17:53.973098+00:00"
+    },
+    "bb82bd73f3d7a6d9": {
+      "idf": "IDF-0256",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-DOMAIN-009.md",
+      "date": "2026-01-30T21:17:53.973299+00:00"
+    },
+    "18136a182327fb78": {
+      "idf": "IDF-0257",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-FOUNDATION-001.md",
+      "date": "2026-01-30T21:17:53.973528+00:00"
+    },
+    "b5740eea341f585d": {
+      "idf": "IDF-0258",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-CONSTITUTIONAL-003.md",
+      "date": "2026-01-30T21:17:53.973744+00:00"
+    },
+    "67c8d15439c43c24": {
+      "idf": "IDF-0259",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-DOMAIN-008.md",
+      "date": "2026-01-30T21:17:53.973949+00:00"
+    },
+    "a4f5aaf2adcdaade": {
+      "idf": "IDF-0260",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-CONSTITUTIONAL-002.md",
+      "date": "2026-01-30T21:17:53.974166+00:00"
+    },
+    "226de55bab8e10b0": {
+      "idf": "IDF-0261",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-FOUNDATION-004.md",
+      "date": "2026-01-30T21:17:53.974378+00:00"
+    },
+    "5ab1c7712ab2ad5c": {
+      "idf": "IDF-0262",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-SESSION-004.md",
+      "date": "2026-01-30T21:17:53.974576+00:00"
+    },
+    "1482bf5e9d866de9": {
+      "idf": "IDF-0263",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-LANGUAGE-004.md",
+      "date": "2026-01-30T21:17:53.974860+00:00"
+    },
+    "e1f1a12381cfa6cf": {
+      "idf": "IDF-0264",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-AXIOM-002.md",
+      "date": "2026-01-30T21:17:53.975081+00:00"
+    },
+    "258a909a8c548f4b": {
+      "idf": "IDF-0265",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-COMPANIES-004.md",
+      "date": "2026-01-30T21:17:53.975243+00:00"
+    },
+    "83cc268d965fba1c": {
+      "idf": "IDF-0266",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-GENESIS-006.md",
+      "date": "2026-01-30T21:17:53.975455+00:00"
+    },
+    "ad9ece54d321db9b": {
+      "idf": "IDF-0267",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-DOMAIN-007.md",
+      "date": "2026-01-30T21:17:53.975638+00:00"
+    },
+    "b18e0a1cc46629f3": {
+      "idf": "IDF-0268",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-GENOMICS-001.md",
+      "date": "2026-01-30T21:17:53.975827+00:00"
+    },
+    "311c19d76cdd4c86": {
+      "idf": "IDF-0269",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-APPS-002.md",
+      "date": "2026-01-30T21:17:53.976032+00:00"
+    },
+    "2f715df33e694f15": {
+      "idf": "IDF-0270",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-DOMAIN-003.md",
+      "date": "2026-01-30T21:17:53.976227+00:00"
+    },
+    "c46ee11e8ce62c50": {
+      "idf": "IDF-0271",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-GENESIS-002.md",
+      "date": "2026-01-30T21:17:53.976436+00:00"
+    },
+    "0fb29a5a79393d41": {
+      "idf": "IDF-0272",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-SESSION-001.md",
+      "date": "2026-01-30T21:17:53.976629+00:00"
+    },
+    "7da370c1b178a7bf": {
+      "idf": "IDF-0273",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-LANGUAGE-001.md",
+      "date": "2026-01-30T21:17:53.976841+00:00"
+    },
+    "45b9498fea9fbdf4": {
+      "idf": "IDF-0274",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-DOMAIN-012.md",
+      "date": "2026-01-30T21:17:53.977027+00:00"
+    },
+    "01a2c66b5421fa56": {
+      "idf": "IDF-0275",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-APPS-003.md",
+      "date": "2026-01-30T21:17:53.977245+00:00"
+    },
+    "32a301bd7d76c44c": {
+      "idf": "IDF-0276",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-COMPANIES-001.md",
+      "date": "2026-01-30T21:17:53.977536+00:00"
+    },
+    "df1520580c9e12df": {
+      "idf": "IDF-0277",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-DOMAIN-002.md",
+      "date": "2026-01-30T21:17:53.977735+00:00"
+    },
+    "fcb4a9c2f5c9e2bc": {
+      "idf": "IDF-0278",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-GENESIS-003.md",
+      "date": "2026-01-30T21:17:53.977956+00:00"
+    },
+    "5959158229de9d70": {
+      "idf": "IDF-0279",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-LANGUAGE-005.md",
+      "date": "2026-01-30T21:17:53.978174+00:00"
+    },
+    "c7f3c4452d03c8fc": {
+      "idf": "IDF-0280",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-AXIOM-003.md",
+      "date": "2026-01-30T21:17:53.978637+00:00"
+    },
+    "6785dc4f1eeeaa1a": {
+      "idf": "IDF-0281",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-MAMMOCHAT-PAPER-001.md",
+      "date": "2026-01-30T21:17:53.979015+00:00"
+    },
+    "5700d56d92b27ca8": {
+      "idf": "IDF-0282",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-COMPANIES-005.md",
+      "date": "2026-01-30T21:17:53.979224+00:00"
+    },
+    "6e05f99c2eefcf54": {
+      "idf": "IDF-0283",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-PAPER-001.md",
+      "date": "2026-01-30T21:17:53.979670+00:00"
+    },
+    "2ed51db5d5467e9a": {
+      "idf": "IDF-0284",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-DOMAIN-006.md",
+      "date": "2026-01-30T21:17:53.979876+00:00"
+    },
+    "ed581bd2be2232b6": {
+      "idf": "IDF-0285",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-SESSION-002.md",
+      "date": "2026-01-30T21:17:53.980115+00:00"
+    },
+    "7d5f2a26bca18ca4": {
+      "idf": "IDF-0286",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-LANGUAGE-002.md",
+      "date": "2026-01-30T21:17:53.980329+00:00"
+    },
+    "cfe3f851663cbacd": {
+      "idf": "IDF-0287",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-GENOMICS-003.md",
+      "date": "2026-01-30T21:17:53.980528+00:00"
+    },
+    "7f4481249533a8a1": {
+      "idf": "IDF-0288",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-DOMAIN-011.md",
+      "date": "2026-01-30T21:17:53.980699+00:00"
+    },
+    "3121b82e646fec03": {
+      "idf": "IDF-0289",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-AXIOM-004.md",
+      "date": "2026-01-30T21:17:53.980898+00:00"
+    },
+    "ebdb4ae4973c9b18": {
+      "idf": "IDF-0290",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-COMPANIES-002.md",
+      "date": "2026-01-30T21:17:53.981085+00:00"
+    },
+    "10cd4b93be464ff4": {
+      "idf": "IDF-0291",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-DOMAIN-001.md",
+      "date": "2026-01-30T21:17:53.981297+00:00"
+    },
+    "9c41afb4c63d9b51": {
+      "idf": "IDF-0292",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-APPS-004.md",
+      "date": "2026-01-30T21:17:53.981498+00:00"
+    },
+    "0948ded7d2b08f97": {
+      "idf": "IDF-0293",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-COMPANIES-006.md",
+      "date": "2026-01-30T21:17:53.981703+00:00"
+    },
+    "7396df4ae25208f3": {
+      "idf": "IDF-0294",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-PAPER-002.md",
+      "date": "2026-01-30T21:17:53.982085+00:00"
+    },
+    "d2f56bac6cbb2552": {
+      "idf": "IDF-0295",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-GENESIS-004.md",
+      "date": "2026-01-30T21:17:53.982274+00:00"
+    },
+    "5e5a045a0f8b737f": {
+      "idf": "IDF-0296",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-DOMAIN-005.md",
+      "date": "2026-01-30T21:17:53.982469+00:00"
+    },
+    "7bcd49dd3ae28d47": {
+      "idf": "IDF-0297",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-AXIOM-001.md",
+      "date": "2026-01-30T21:17:53.982677+00:00"
+    },
+    "da69495a670b195c": {
+      "idf": "IDF-0298",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-PAPER-003.md",
+      "date": "2026-01-30T21:17:53.982885+00:00"
+    },
+    "9936e9ae47442251": {
+      "idf": "IDF-0299",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-CREDENTIALING-001.md",
+      "date": "2026-01-30T21:17:53.983113+00:00"
+    },
+    "f307464e8c4e9837": {
+      "idf": "IDF-0300",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-GENESIS-005.md",
+      "date": "2026-01-30T21:17:53.983326+00:00"
+    },
+    "00e70509d82cf2c1": {
+      "idf": "IDF-0301",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-DOMAIN-004.md",
+      "date": "2026-01-30T21:17:53.983529+00:00"
+    },
+    "479b04bc7a1b6443": {
+      "idf": "IDF-0302",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-SESSION-003.md",
+      "date": "2026-01-30T21:17:53.983739+00:00"
+    },
+    "c4ceecc8c7883b46": {
+      "idf": "IDF-0303",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-LANGUAGE-003.md",
+      "date": "2026-01-30T21:17:53.983950+00:00"
+    },
+    "278949af7b0333c3": {
+      "idf": "IDF-0304",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-GENOMICS-APP-001.md",
+      "date": "2026-01-30T21:17:53.984155+00:00"
+    },
+    "06f1210260c02d1f": {
+      "idf": "IDF-0305",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-GENOMICS-002.md",
+      "date": "2026-01-30T21:17:53.984364+00:00"
+    },
+    "a7e9555387d649a0": {
+      "idf": "IDF-0306",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-DOMAIN-010.md",
+      "date": "2026-01-30T21:17:53.984555+00:00"
+    },
+    "c84e6e0f29f288e7": {
+      "idf": "IDF-0307",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-AXIOM-005.md",
+      "date": "2026-01-30T21:17:53.984751+00:00"
+    },
+    "da2a80837b4dfc33": {
+      "idf": "IDF-0308",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-COMPANIES-003.md",
+      "date": "2026-01-30T21:17:53.984953+00:00"
+    },
+    "2b135ae661d350fe": {
+      "idf": "IDF-0309",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-APPS-001.md",
+      "date": "2026-01-30T21:17:53.985130+00:00"
+    },
+    "0a1fc674fee60b56": {
+      "idf": "IDF-0310",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-GENESIS-001.md",
+      "date": "2026-01-30T21:17:53.985337+00:00"
+    },
+    "d8017908fb320eb4": {
+      "idf": "IDF-0311",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-FOUNDATION-003.md",
+      "date": "2026-01-30T21:17:53.985545+00:00"
+    },
+    "c0ed8ef8ada7a95d": {
+      "idf": "IDF-0312",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-CONSTITUTIONAL-001.md",
+      "date": "2026-01-30T21:17:53.985753+00:00"
+    },
+    "d274a04e31d30f06": {
+      "idf": "IDF-0313",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-BOOK-003.md",
+      "date": "2026-01-30T21:17:53.986050+00:00"
+    },
+    "b4ab1fbfa17d5a1f": {
+      "idf": "IDF-0314",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-MAMMOCHAT-APP-001.md",
+      "date": "2026-01-30T21:17:53.986256+00:00"
+    },
+    "8b576ad7fa2c4d37": {
+      "idf": "IDF-0315",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-CONSTITUTIONAL-005.md",
+      "date": "2026-01-30T21:17:53.986466+00:00"
+    },
+    "9f7d7ab010477105": {
+      "idf": "IDF-0316",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-BOOK-002.md",
+      "date": "2026-01-30T21:17:53.986720+00:00"
+    },
+    "8e7928304e4c97b7": {
+      "idf": "IDF-0317",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-CONSTITUTIONAL-004.md",
+      "date": "2026-01-30T21:17:53.986930+00:00"
+    },
+    "fab8d38ef3b20b19": {
+      "idf": "IDF-0318",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/disclosures-new/DISCLOSURE-FOUNDATION-002.md",
+      "date": "2026-01-30T21:17:53.987147+00:00"
+    },
+    "e1cc33bd772caf70": {
+      "idf": "IDF-0320",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/paper-draft/supporting/appendix-f-claim-checklist.md",
+      "date": "2026-01-30T21:17:53.987544+00:00"
+    },
+    "c45950121346734f": {
+      "idf": "IDF-0321",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/paper-draft/supporting/appendix-a-proofs.md",
+      "date": "2026-01-30T21:17:53.987704+00:00"
+    },
+    "85693a7397c9639b": {
+      "idf": "IDF-0322",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/paper-draft/supporting/README.md",
+      "date": "2026-01-30T21:17:53.987843+00:00"
+    },
+    "7200d3d133ab6fd4": {
+      "idf": "IDF-0323",
+      "source": "retired/canonic-hadleylab/PATENTS-PROTECTION/paper-draft/supporting/appendix-e-methods.md",
+      "date": "2026-01-30T21:17:53.988024+00:00"
+    },
+    "04798c23ac8ec2a1": {
+      "idf": "IDF-0403",
+      "source": "retired/MammoChat/white_paper/docs/STRUCTURE.md",
+      "date": "2026-01-30T21:17:54.006804+00:00"
+    },
+    "a6c320b24d7eb53c": {
+      "idf": "IDF-0404",
+      "source": "retired/MammoChat/white_paper/docs/TOOLS_REFERENCE.md",
+      "date": "2026-01-30T21:17:54.006998+00:00"
+    },
+    "7762957c6d6ab689": {
+      "idf": "IDF-0405",
+      "source": "retired/MammoChat/white_paper/docs/COMPREHENSIVE_CLEANUP_SUMMARY.md",
+      "date": "2026-01-30T21:17:54.007136+00:00"
+    },
+    "47f38f362e7f90c7": {
+      "idf": "IDF-0406",
+      "source": "retired/MammoChat/white_paper/docs/PIPELINE_SIMPLIFIED.md",
+      "date": "2026-01-30T21:17:54.007271+00:00"
+    },
+    "2a5ffeda24ab127d": {
+      "idf": "IDF-0407",
+      "source": "retired/MammoChat/white_paper/docs/CLEANUP_SUMMARY.md",
+      "date": "2026-01-30T21:17:54.007485+00:00"
+    },
+    "0f4b08ae789240f7": {
+      "idf": "IDF-0329",
+      "source": "retired/canonic-machine/PAPER/CV.md",
+      "date": "2026-01-30T21:17:53.989112+00:00"
+    },
+    "97c63cde8856e329": {
+      "idf": "IDF-0330",
+      "source": "retired/canonic-machine/PAPER/SUPPLEMENTAL.md",
+      "date": "2026-01-30T21:17:53.989421+00:00"
+    },
+    "4e75c0086e604baf": {
+      "idf": "IDF-0331",
+      "source": "retired/canonic-machine/PAPER/README.md",
+      "date": "2026-01-30T21:17:53.989595+00:00"
+    },
+    "6a2c3c45afd8c735": {
+      "idf": "IDF-0332",
+      "source": "retired/canonic-machine/PAPER/VOCAB.md",
+      "date": "2026-01-30T21:17:53.989749+00:00"
+    },
+    "2718249673580492": {
+      "idf": "IDF-0333",
+      "source": "retired/canonic-machine/PAPER/ROADMAP.md",
+      "date": "2026-01-30T21:17:53.990146+00:00"
+    },
+    "65a60cf157879f06": {
+      "idf": "IDF-0340",
+      "source": "retired/canonic-machine/PAPER/v0/manuscript.md",
+      "date": "2026-01-30T21:17:53.991580+00:00"
+    },
+    "7804335a71248bd5": {
+      "idf": "IDF-0335",
+      "source": "retired/canonic-machine/PAPER/CANON.md",
+      "date": "2026-01-30T21:17:53.990596+00:00"
+    },
+    "351989ee92e609c3": {
+      "idf": "IDF-0336",
+      "source": "retired/canonic-machine/PAPER/COVERAGE.md",
+      "date": "2026-01-30T21:17:53.990894+00:00"
+    },
+    "6614f3d6facb3bb6": {
+      "idf": "IDF-0337",
+      "source": "retired/canonic-machine/PAPER/PAPER.md",
+      "date": "2026-01-30T21:17:53.991088+00:00"
+    },
+    "b385d7e43ee57695": {
+      "idf": "IDF-0338",
+      "source": "retired/canonic-machine/PAPER/v1/README.md",
+      "date": "2026-01-30T21:17:53.991195+00:00"
+    },
+    "c13d5c7f6473f2e0": {
+      "idf": "IDF-0339",
+      "source": "retired/canonic-machine/PAPER/v0/README.md",
+      "date": "2026-01-30T21:17:53.991349+00:00"
+    },
+    "747aaede5811b503": {
+      "idf": "IDF-0341",
+      "source": "retired/canonic-machine/PAPER/plans/arxiv-submission.md",
+      "date": "2026-01-30T21:17:53.991827+00:00"
+    },
+    "e911dfd67b2ef63e": {
+      "idf": "IDF-0342",
+      "source": "retired/canonic-machine/PAPER/plans/publication-series.md",
+      "date": "2026-01-30T21:17:53.992017+00:00"
+    },
+    "df5a8f2730ae3738": {
+      "idf": "IDF-0343",
+      "source": "retired/canonic-machine/PAPER/v2/README.md",
+      "date": "2026-01-30T21:17:53.992133+00:00"
+    },
+    "bd9f732d1a0793d7": {
+      "idf": "IDF-0344",
+      "source": "retired/canonic-machine/PAPER/v3/README.md",
+      "date": "2026-01-30T21:17:53.992242+00:00"
+    },
+    "5c6248380da71948": {
+      "idf": "IDF-0345",
+      "source": "retired/canonic-machine/LEDGER/VOCAB.md",
+      "date": "2026-01-30T21:17:53.992349+00:00"
+    },
+    "c3fe76f2052e32a9": {
+      "idf": "IDF-0346",
+      "source": "retired/canonic-machine/LEDGER/CANON.md",
+      "date": "2026-01-30T21:17:53.992480+00:00"
+    },
+    "575e9e3899419ecf": {
+      "idf": "IDF-0347",
+      "source": "retired/canonic-machine/LEDGER/LEDGER.md",
+      "date": "2026-01-30T21:17:53.992646+00:00"
+    },
+    "8c0a5e409d296c83": {
+      "idf": "IDF-0348",
+      "source": "retired/canonic-machine/LANGUAGE/LANGUAGE.md",
+      "date": "2026-01-30T21:17:53.992888+00:00"
+    },
+    "a863f514d25a00d2": {
+      "idf": "IDF-0349",
+      "source": "retired/canonic-machine/LANGUAGE/LATTICE.md",
+      "date": "2026-01-30T21:17:53.994256+00:00"
+    },
+    "509f7876e9dbf23b": {
+      "idf": "IDF-0350",
+      "source": "retired/canonic-machine/LANGUAGE/GENESIS.md",
+      "date": "2026-01-30T21:17:53.994477+00:00"
+    },
+    "1ee0f542ac29f1ff": {
+      "idf": "IDF-0351",
+      "source": "retired/canonic-machine/LANGUAGE/README.md",
+      "date": "2026-01-30T21:17:53.994664+00:00"
+    },
+    "52701ef160143cf3": {
+      "idf": "IDF-0352",
+      "source": "retired/canonic-machine/LANGUAGE/VOCAB.md",
+      "date": "2026-01-30T21:17:53.994820+00:00"
+    },
+    "9ccf784da8081106": {
+      "idf": "IDF-0353",
+      "source": "retired/canonic-machine/LANGUAGE/CANON.md",
+      "date": "2026-01-30T21:17:53.995156+00:00"
+    },
+    "2bd6f35bdb1e625c": {
+      "idf": "IDF-0354",
+      "source": "retired/canonic-machine/LANGUAGE/COVERAGE.md",
+      "date": "2026-01-30T21:17:53.995356+00:00"
+    },
+    "50a307c41b7354e3": {
+      "idf": "IDF-0355",
+      "source": "retired/canonic-machine/LANGUAGE/DOMAINS.md",
+      "date": "2026-01-30T21:17:53.996377+00:00"
+    },
+    "5706afbe3777c189": {
+      "idf": "IDF-0356",
+      "source": "retired/canonic-machine/LANGUAGE/domains/DATA.md",
+      "date": "2026-01-30T21:17:53.996693+00:00"
+    },
+    "77b320bd282f6d9f": {
+      "idf": "IDF-0357",
+      "source": "retired/canonic-machine/LANGUAGE/domains/SAFETY.md",
+      "date": "2026-01-30T21:17:53.997256+00:00"
+    },
+    "460a771c26623c82": {
+      "idf": "IDF-0358",
+      "source": "retired/canonic-machine/LANGUAGE/domains/QUALITY.md",
+      "date": "2026-01-30T21:17:53.997397+00:00"
+    },
+    "ba04fc7dddb7642e": {
+      "idf": "IDF-0359",
+      "source": "retired/canonic-machine/LANGUAGE/domains/GOVERNMENT.md",
+      "date": "2026-01-30T21:17:53.997708+00:00"
+    },
+    "a17822cb061a2adc": {
+      "idf": "IDF-0360",
+      "source": "retired/canonic-machine/LANGUAGE/domains/README.md",
+      "date": "2026-01-30T21:17:53.997859+00:00"
+    },
+    "b7d26865bca0e9b4": {
+      "idf": "IDF-0361",
+      "source": "retired/canonic-machine/LANGUAGE/domains/FINANCE.md",
+      "date": "2026-01-30T21:17:53.998227+00:00"
+    },
+    "67c55d8374d75172": {
+      "idf": "IDF-0362",
+      "source": "retired/canonic-machine/LANGUAGE/domains/DEFENSE.md",
+      "date": "2026-01-30T21:17:53.998631+00:00"
+    },
+    "58809fe032887333": {
+      "idf": "IDF-0363",
+      "source": "retired/canonic-machine/LANGUAGE/domains/LAW.md",
+      "date": "2026-01-30T21:17:53.998831+00:00"
+    },
+    "f36ca3085baf8b65": {
+      "idf": "IDF-0364",
+      "source": "retired/canonic-machine/LANGUAGE/domains/SECURITY.md",
+      "date": "2026-01-30T21:17:53.999297+00:00"
+    },
+    "3cccfdb8f2d6f2c5": {
+      "idf": "IDF-0365",
+      "source": "retired/canonic-machine/LANGUAGE/domains/medicine/CANON.md",
+      "date": "2026-01-30T21:17:53.999515+00:00"
+    },
+    "9c7b7daf57ef7d8e": {
+      "idf": "IDF-0366",
+      "source": "retired/canonic-machine/LANGUAGE/domains/medicine/credentialing/CANON.md",
+      "date": "2026-01-30T21:17:53.999703+00:00"
+    },
+    "337a708d22088e15": {
+      "idf": "IDF-0367",
+      "source": "retired/canonic-machine/LANGUAGE/domains/medicine/oncology/CANON.md",
+      "date": "2026-01-30T21:17:53.999850+00:00"
+    },
+    "346403a9910ddcd9": {
+      "idf": "IDF-0368",
+      "source": "retired/canonic-machine/LANGUAGE/domains/medicine/psychiatry/CANON.md",
+      "date": "2026-01-30T21:17:54.000078+00:00"
+    },
+    "bf43d5e24baa39b2": {
+      "idf": "IDF-0369",
+      "source": "retired/canonic-machine/LANGUAGE/domains/medicine/oncology/breast/CANON.md",
+      "date": "2026-01-30T21:17:54.000280+00:00"
+    },
+    "434bdd08e959fdc5": {
+      "idf": "IDF-0370",
+      "source": "retired/canonic-machine/canonic/README.md",
+      "date": "2026-01-30T21:17:54.000404+00:00"
+    },
+    "0162e5f5e894375d": {
+      "idf": "IDF-0371",
+      "source": "retired/canonic-machine/canonic/ROADMAP.md",
+      "date": "2026-01-30T21:17:54.000602+00:00"
+    },
+    "6ba37eb04cbb3a3d": {
+      "idf": "IDF-0372",
+      "source": "retired/canonic-machine/canonic/COVERAGE.md",
+      "date": "2026-01-30T21:17:54.000774+00:00"
+    },
+    "4fe2f658db6a13ab": {
+      "idf": "IDF-0373",
+      "source": "retired/canonic-machine/canonic/EVOLUTION.md",
+      "date": "2026-01-30T21:17:54.000970+00:00"
+    },
+    "ace2197ccfbd6d40": {
+      "idf": "IDF-0374",
+      "source": "retired/canonic-machine/canonic/LANGUAGE/LANGUAGE.md",
+      "date": "2026-01-30T21:17:54.001180+00:00"
+    },
+    "4e3d473a6b648e1a": {
+      "idf": "IDF-0376",
+      "source": "retired/canonic-machine/canonic/EVOLUTION/README.md",
+      "date": "2026-01-30T21:17:54.001404+00:00"
+    },
+    "8fafe0e4d5911081": {
+      "idf": "IDF-0377",
+      "source": "retired/canonic-machine/canonic/EVOLUTION/CANON.md",
+      "date": "2026-01-30T21:17:54.001563+00:00"
+    },
+    "19e29dae91b86b37": {
+      "idf": "IDF-0378",
+      "source": "retired/canonic-machine/canonic/LANGUAGE/nomenclature/NOMENCLATURE.md",
+      "date": "2026-01-30T21:17:54.001791+00:00"
+    },
+    "75d73a53c0a351fa": {
+      "idf": "IDF-0379",
+      "source": "retired/canonic-machine/MACHINE/MACHINE.md",
+      "date": "2026-01-30T21:17:54.001946+00:00"
+    },
+    "7e4d44c91da8d903": {
+      "idf": "IDF-0380",
+      "source": "retired/canonic-machine/OS/OS.md",
+      "date": "2026-01-30T21:17:54.002101+00:00"
+    },
+    "f33670a096687b58": {
+      "idf": "IDF-0381",
+      "source": "retired/canonic-machine/VALIDATORS/README.md",
+      "date": "2026-01-30T21:17:54.002216+00:00"
+    },
+    "8f7cbf8113080ed6": {
+      "idf": "IDF-0382",
+      "source": "retired/canonic-machine/VALIDATORS/VOCAB.md",
+      "date": "2026-01-30T21:17:54.002339+00:00"
+    },
+    "5cca171c8f319808": {
+      "idf": "IDF-0383",
+      "source": "retired/canonic-machine/VALIDATORS/ROADMAP.md",
+      "date": "2026-01-30T21:17:54.002546+00:00"
+    },
+    "cb3302d9669ca199": {
+      "idf": "IDF-0384",
+      "source": "retired/canonic-machine/VALIDATORS/CANON.md",
+      "date": "2026-01-30T21:17:54.002696+00:00"
+    },
+    "147a44a92d28877e": {
+      "idf": "IDF-0385",
+      "source": "retired/canonic-machine/VALIDATORS/COVERAGE.md",
+      "date": "2026-01-30T21:17:54.002900+00:00"
+    },
+    "ba70723db64e8965": {
+      "idf": "IDF-0386",
+      "source": "retired/canonic-machine/VALIDATORS/VALIDATORS.md",
+      "date": "2026-01-30T21:17:54.003139+00:00"
+    },
+    "2c4babcc26aa24be": {
+      "idf": "IDF-0387",
+      "source": "retired/canonic-machine/VALIDATORS/plans/github-marketplace.md",
+      "date": "2026-01-30T21:17:54.003360+00:00"
+    },
+    "5a73bf9db20dfbab": {
+      "idf": "IDF-0388",
+      "source": "retired/canonic-machine/VALIDATORS/plans/appstore-normalization.md",
+      "date": "2026-01-30T21:17:54.003532+00:00"
+    },
+    "c0d036500e82db8c": {
+      "idf": "IDF-0389",
+      "source": "retired/canonic-machine/VALIDATORS/plans/appstore-lifecycle.md",
+      "date": "2026-01-30T21:17:54.003750+00:00"
+    },
+    "0bf75daba11194ae": {
+      "idf": "IDF-0390",
+      "source": "retired/canonic-machine/VALIDATORS/plans/validator-architecture-v2.md",
+      "date": "2026-01-30T21:17:54.003974+00:00"
+    },
+    "2a8d4b4f2d48dbb6": {
+      "idf": "IDF-0391",
+      "source": "retired/canonic-machine/STACK/STACK.md",
+      "date": "2026-01-30T21:17:54.004137+00:00"
+    },
+    "b22e0b659f41a07a": {
+      "idf": "IDF-0492",
+      "source": "retired/canonic-proto/MCODE-TRANSLATOR/README.md",
+      "date": "2026-01-30T21:17:54.022876+00:00"
+    },
+    "bd5ef03aca8cfa7e": {
+      "idf": "IDF-0493",
+      "source": "retired/canonic-proto/MCODE-TRANSLATOR/tests/README.md",
+      "date": "2026-01-30T21:17:54.023055+00:00"
+    },
+    "82678497787d4ba0": {
+      "idf": "IDF-0494",
+      "source": "retired/canonic-proto/MCODE-TRANSLATOR/docs/ensemble_trials_guide.md",
+      "date": "2026-01-30T21:17:54.023649+00:00"
+    },
+    "2dd73448f1adc94d": {
+      "idf": "IDF-0495",
+      "source": "retired/canonic-proto/MCODE-TRANSLATOR/docs/COMPREHENSIVE_DOCUMENTATION.md",
+      "date": "2026-01-30T21:17:54.024021+00:00"
+    },
+    "083d0c1a23e35709": {
+      "idf": "IDF-0496",
+      "source": "retired/canonic-proto/MCODE-TRANSLATOR/examples/data_pipeline/README.md",
+      "date": "2026-01-30T21:17:54.024142+00:00"
+    },
+    "32932b6a1923af09": {
+      "idf": "IDF-0497",
+      "source": "retired/canonic-proto/MCODE-TRANSLATOR/examples/cli_commands/README.md",
+      "date": "2026-01-30T21:17:54.024264+00:00"
+    },
+    "45a09a4031ce0d90": {
+      "idf": "IDF-0498",
+      "source": "retired/canonic-proto/MCODE-TRANSLATOR/examples/optimization_features/README.md",
+      "date": "2026-01-30T21:17:54.024464+00:00"
+    },
+    "9ef8f579460efd41": {
+      "idf": "IDF-0499",
+      "source": "retired/canonic-proto/MCODE-TRANSLATOR/examples/advanced_workflow/README.md",
+      "date": "2026-01-30T21:17:54.024584+00:00"
+    },
+    "2538f0dfa5b2d715": {
+      "idf": "IDF-0500",
+      "source": "retired/canonic-proto/MCODE-TRANSLATOR/examples/api_integration/README.md",
+      "date": "2026-01-30T21:17:54.024701+00:00"
+    },
+    "ddbd1bff4e89f4b4": {
+      "idf": "IDF-0501",
+      "source": "retired/canonic-proto/MCODE-TRANSLATOR/examples/basic_usage/README.md",
+      "date": "2026-01-30T21:17:54.024838+00:00"
+    },
+    "2387e5e79c6765ce": {
+      "idf": "IDF-0402",
+      "source": "retired/MammoChat/white_paper/tex/README.md",
+      "date": "2026-01-30T21:17:54.006599+00:00"
+    },
+    "00f0310cb657d99f": {
+      "idf": "IDF-0408",
+      "source": "retired/MammoChat/white_paper/docs/README.md",
+      "date": "2026-01-30T21:17:54.007643+00:00"
+    },
+    "f4f3faaafb383781": {
+      "idf": "IDF-0515",
+      "source": "retired/canonic-proto/NICEGUI-APP/PROJECT_SUMMARY.md",
+      "date": "2026-01-30T21:17:54.028061+00:00"
+    },
+    "0ec8a1d8676aef7b": {
+      "idf": "IDF-0516",
+      "source": "retired/canonic-proto/NICEGUI-APP/CHANGELOG.md",
+      "date": "2026-01-30T21:17:54.028290+00:00"
+    },
+    "cfe204d9122fbed4": {
+      "idf": "IDF-0517",
+      "source": "retired/canonic-proto/NICEGUI-APP/REFACTORING_SUMMARY.md",
+      "date": "2026-01-30T21:17:54.028580+00:00"
+    },
+    "8c1e640d21c44d32": {
+      "idf": "IDF-0518",
+      "source": "retired/canonic-proto/NICEGUI-APP/TESTING_PLAN.md",
+      "date": "2026-01-30T21:17:54.028765+00:00"
+    },
+    "a10e2d7b41fc9cc3": {
+      "idf": "IDF-0519",
+      "source": "retired/canonic-proto/NICEGUI-APP/DOCKER_README.md",
+      "date": "2026-01-30T21:17:54.028920+00:00"
+    },
+    "cef6c3b620c6377f": {
+      "idf": "IDF-0520",
+      "source": "retired/canonic-proto/NICEGUI-APP/README.md",
+      "date": "2026-01-30T21:17:54.029185+00:00"
+    },
+    "7953e07799704ce5": {
+      "idf": "IDF-0521",
+      "source": "retired/canonic-proto/NICEGUI-APP/DEVELOPMENT.md",
+      "date": "2026-01-30T21:17:54.029324+00:00"
+    },
+    "b40e0d13e24f3a4e": {
+      "idf": "IDF-0522",
+      "source": "retired/canonic-proto/NICEGUI-APP/QUICK_REFERENCE.md",
+      "date": "2026-01-30T21:17:54.029455+00:00"
+    },
+    "bcd07de16033003e": {
+      "idf": "IDF-0523",
+      "source": "retired/canonic-proto/NICEGUI-APP/QUICK_START.md",
+      "date": "2026-01-30T21:17:54.029701+00:00"
+    },
+    "d36e5d2d828e49d4": {
+      "idf": "IDF-0524",
+      "source": "retired/canonic-proto/NICEGUI-APP/branding/BRAND_GUIDELINES.md",
+      "date": "2026-01-30T21:17:54.030108+00:00"
+    },
+    "7a05f8afa58c22ca": {
+      "idf": "IDF-0525",
+      "source": "retired/canonic-proto/NICEGUI-APP/branding/README.md",
+      "date": "2026-01-30T21:17:54.030247+00:00"
+    },
+    "d1fda8add269cd64": {
+      "idf": "IDF-0526",
+      "source": "retired/canonic-proto/NICEGUI-APP/branding/IMPLEMENTATION_GUIDE.md",
+      "date": "2026-01-30T21:17:54.030452+00:00"
+    },
+    "3e6b4346bff76af6": {
+      "idf": "IDF-0527",
+      "source": "retired/canonic-proto/NICEGUI-APP/branding/COMPLETE_SUMMARY.md",
+      "date": "2026-01-30T21:17:54.030762+00:00"
+    },
+    "26f23330374215e5": {
+      "idf": "IDF-0528",
+      "source": "retired/canonic-proto/NICEGUI-APP/branding/PACKAGE_SUMMARY.md",
+      "date": "2026-01-30T21:17:54.031084+00:00"
+    },
+    "412229184d27e658": {
+      "idf": "IDF-0529",
+      "source": "retired/canonic-proto/NICEGUI-APP/prompts/system.md",
+      "date": "2026-01-30T21:17:54.031410+00:00"
+    },
+    "7fef901bfc711638": {
+      "idf": "IDF-0424",
+      "source": "retired/canonic-apps/AGENT/ROADMAP.md",
+      "date": "2026-01-30T21:17:54.011273+00:00"
+    },
+    "63a0dda6fe512b66": {
+      "idf": "IDF-0425",
+      "source": "retired/canonic-apps/AGENT/CANON.md",
+      "date": "2026-01-30T21:17:54.011396+00:00"
+    },
+    "6520e3f19d8cc1e0": {
+      "idf": "IDF-0426",
+      "source": "retired/canonic-apps/EVOLUTION/README.md",
+      "date": "2026-01-30T21:17:54.011543+00:00"
+    },
+    "23ec83f43349e108": {
+      "idf": "IDF-0427",
+      "source": "retired/canonic-apps/EVOLUTION/CANON.md",
+      "date": "2026-01-30T21:17:54.011741+00:00"
+    },
+    "69c830d87dc0ecee": {
+      "idf": "IDF-0428",
+      "source": "retired/canonic-apps/CV/README.md",
+      "date": "2026-01-30T21:17:54.011861+00:00"
+    },
+    "8066748c223f0286": {
+      "idf": "IDF-0429",
+      "source": "retired/canonic-apps/CV/ROADMAP.md",
+      "date": "2026-01-30T21:17:54.012015+00:00"
+    },
+    "ece7af2a670cdf70": {
+      "idf": "IDF-0430",
+      "source": "retired/canonic-apps/CV/CANON.md",
+      "date": "2026-01-30T21:17:54.012138+00:00"
+    },
+    "7078157c3de389e1": {
+      "idf": "IDF-0431",
+      "source": "retired/canonic-apps/apps/README.md",
+      "date": "2026-01-30T21:17:54.012268+00:00"
+    },
+    "d24ce26eeabd118e": {
+      "idf": "IDF-0432",
+      "source": "retired/canonic-apps/apps/CANON.md",
+      "date": "2026-01-30T21:17:54.012422+00:00"
+    },
+    "9f7678143bf8cd33": {
+      "idf": "IDF-0433",
+      "source": "retired/canonic-apps/apps/APPS.md",
+      "date": "2026-01-30T21:17:54.012549+00:00"
+    },
+    "7a222204c19bbf52": {
+      "idf": "IDF-0434",
+      "source": "retired/canonic-apps/apps/GUIDE/SPINE.md",
+      "date": "2026-01-30T21:17:54.012688+00:00"
+    },
+    "fcc5adab7da65c3d": {
+      "idf": "IDF-0435",
+      "source": "retired/canonic-apps/apps/GUIDE/ARC.md",
+      "date": "2026-01-30T21:17:54.012829+00:00"
+    },
+    "36149fcd80ee5ac3": {
+      "idf": "IDF-0436",
+      "source": "retired/canonic-apps/apps/GUIDE/README.md",
+      "date": "2026-01-30T21:17:54.012982+00:00"
+    },
+    "b5c231090ca4b1cd": {
+      "idf": "IDF-0437",
+      "source": "retired/canonic-apps/apps/GUIDE/VOCAB.md",
+      "date": "2026-01-30T21:17:54.013122+00:00"
+    },
+    "aafa98905e8fd3b3": {
+      "idf": "IDF-0438",
+      "source": "retired/canonic-apps/apps/GUIDE/CANON.md",
+      "date": "2026-01-30T21:17:54.013277+00:00"
+    },
+    "b07b5aa718ed5543": {
+      "idf": "IDF-0439",
+      "source": "retired/canonic-apps/apps/VITAE/README.md",
+      "date": "2026-01-30T21:17:54.013456+00:00"
+    },
+    "be1c6ecc89f422c4": {
+      "idf": "IDF-0440",
+      "source": "retired/canonic-apps/apps/VITAE/CANON.md",
+      "date": "2026-01-30T21:17:54.013630+00:00"
+    },
+    "09958ec287cdebd0": {
+      "idf": "IDF-0441",
+      "source": "retired/canonic-apps/apps/ATOM-CREDENTIALING/EMAIL-AVINASH.md",
+      "date": "2026-01-30T21:17:54.013798+00:00"
+    },
+    "2aff9e5a54dc7331": {
+      "idf": "IDF-0442",
+      "source": "retired/canonic-apps/apps/ATOM-CREDENTIALING/README.md",
+      "date": "2026-01-30T21:17:54.013978+00:00"
+    },
+    "3a62e2f26279519c": {
+      "idf": "IDF-0443",
+      "source": "retired/canonic-apps/apps/ATOM-CREDENTIALING/CANON.md",
+      "date": "2026-01-30T21:17:54.014106+00:00"
+    },
+    "962a63a8dc558ef1": {
+      "idf": "IDF-0444",
+      "source": "retired/canonic-apps/apps/EMAIL-AGENT/CANON.md",
+      "date": "2026-01-30T21:17:54.014258+00:00"
+    },
+    "eaac64218c6d5037": {
+      "idf": "IDF-0445",
+      "source": "retired/canonic-apps/apps/MED/CANON.md",
+      "date": "2026-01-30T21:17:54.014705+00:00"
+    },
+    "648ff426ba6aaaea": {
+      "idf": "IDF-0446",
+      "source": "retired/canonic-apps/apps/MED/LEDGER/CANON.md",
+      "date": "2026-01-30T21:17:54.014897+00:00"
+    },
+    "201c6b0e3da068f3": {
+      "idf": "IDF-0447",
+      "source": "retired/canonic-apps/apps/MED/SCHEMA/CANON.md",
+      "date": "2026-01-30T21:17:54.015090+00:00"
+    },
+    "0d65a94b2c783ed7": {
+      "idf": "IDF-0448",
+      "source": "retired/canonic-apps/apps/MED/COIN/CANON.md",
+      "date": "2026-01-30T21:17:54.015296+00:00"
+    },
+    "099eb8d40fd6bca6": {
+      "idf": "IDF-0449",
+      "source": "retired/canonic-apps/apps/MED/ONCO/CANON.md",
+      "date": "2026-01-30T21:17:54.015452+00:00"
+    },
+    "8955ffcc3dca23de": {
+      "idf": "IDF-0450",
+      "source": "retired/canonic-apps/apps/MED/ENGINE/CANON.md",
+      "date": "2026-01-30T21:17:54.015620+00:00"
+    },
+    "8d0fadf4d1cd8f91": {
+      "idf": "IDF-0451",
+      "source": "retired/canonic-apps/apps/MED/ENGINE/VALIDATING/README.md",
+      "date": "2026-01-30T21:17:54.015819+00:00"
+    },
+    "65ded268d56a7303": {
+      "idf": "IDF-0452",
+      "source": "retired/canonic-apps/apps/MED/ENGINE/READING/README.md",
+      "date": "2026-01-30T21:17:54.016013+00:00"
+    },
+    "e15c847d619b13b9": {
+      "idf": "IDF-0453",
+      "source": "retired/canonic-apps/apps/MED/ENGINE/WRITING/README.md",
+      "date": "2026-01-30T21:17:54.016169+00:00"
+    },
+    "602d7844ad17b68e": {
+      "idf": "IDF-0454",
+      "source": "retired/canonic-apps/apps/MED/ONCO/MAMMO/CANON.md",
+      "date": "2026-01-30T21:17:54.016312+00:00"
+    },
+    "ac01898fa8b5580b": {
+      "idf": "IDF-0455",
+      "source": "retired/canonic-apps/apps/MED/ONCO/MAMMO/EVIDENCE/CANON.md",
+      "date": "2026-01-30T21:17:54.016482+00:00"
+    },
+    "11ca4af7b8df0e96": {
+      "idf": "IDF-0456",
+      "source": "retired/canonic-apps/apps/MED/ONCO/MAMMO/EVIDENCE/BIRADS/README.md",
+      "date": "2026-01-30T21:17:54.016609+00:00"
+    },
+    "2fb8514bd2510632": {
+      "idf": "IDF-0457",
+      "source": "retired/canonic-apps/apps/MED/ONCO/MAMMO/EVIDENCE/NCCN/README.md",
+      "date": "2026-01-30T21:17:54.016755+00:00"
+    },
+    "2a5b4bb1ed56f234": {
+      "idf": "IDF-0458",
+      "source": "retired/canonic-apps/apps/MED/ONCO/EVIDENCE/MCODE/README.md",
+      "date": "2026-01-30T21:17:54.016923+00:00"
+    },
+    "1cb7a656c809aaf1": {
+      "idf": "IDF-0463",
+      "source": "retired/canonic-apps/EMAIL/templates/atom-proposal.md",
+      "date": "2026-01-30T21:17:54.017691+00:00"
+    },
+    "74c0c2e79f0f124b": {
+      "idf": "IDF-0460",
+      "source": "retired/canonic-apps/apps/EMAIL-AGENT/templates/mammochat-onboard.md",
+      "date": "2026-01-30T21:17:54.017216+00:00"
+    },
+    "3b4de86eb8b64ee9": {
+      "idf": "IDF-0461",
+      "source": "retired/canonic-apps/EMAIL/README.md",
+      "date": "2026-01-30T21:17:54.017367+00:00"
+    },
+    "c8334071b1f0d58c": {
+      "idf": "IDF-0462",
+      "source": "retired/canonic-apps/EMAIL/CANON.md",
+      "date": "2026-01-30T21:17:54.017528+00:00"
+    },
+    "0c28f9e9296e51da": {
+      "idf": "IDF-0464",
+      "source": "retired/canonic-apps/EMAIL/templates/onboarding.md",
+      "date": "2026-01-30T21:17:54.017864+00:00"
+    },
+    "951c50ee395f62bd": {
+      "idf": "IDF-0465",
+      "source": "retired/canonic-apps/STORE/README.md",
+      "date": "2026-01-30T21:17:54.018021+00:00"
+    },
+    "61773fb4e0fddcdc": {
+      "idf": "IDF-0466",
+      "source": "retired/canonic-apps/STORE/STORE.md",
+      "date": "2026-01-30T21:17:54.018157+00:00"
+    },
+    "90a6e68008a6efdf": {
+      "idf": "IDF-0467",
+      "source": "retired/canonic-apps/STORE/CANON.md",
+      "date": "2026-01-30T21:17:54.018277+00:00"
+    },
+    "bfb1b7065242b18f": {
+      "idf": "IDF-0468",
+      "source": "retired/canonic-apps/STORE/BLOGS/CANON.md",
+      "date": "2026-01-30T21:17:54.018417+00:00"
+    },
+    "cdd0daa12c4bdc61": {
+      "idf": "IDF-0469",
+      "source": "retired/canonic-apps/STORE/FRONTEND/CANON.md",
+      "date": "2026-01-30T21:17:54.018545+00:00"
+    },
+    "c09968d1a287fcb2": {
+      "idf": "IDF-0470",
+      "source": "retired/canonic-apps/STORE/BACKEND/CANON.md",
+      "date": "2026-01-30T21:17:54.018682+00:00"
+    },
+    "f60ba902af683e62": {
+      "idf": "IDF-0471",
+      "source": "retired/canonic-apps/STORE/BLOGS/STAGING/10-mammochat-evidence.md",
+      "date": "2026-01-30T21:17:54.018835+00:00"
+    },
+    "07f456174abc9181": {
+      "idf": "IDF-0472",
+      "source": "retired/canonic-apps/STORE/BLOGS/STAGING/01-constitutional-catastrophe.md",
+      "date": "2026-01-30T21:17:54.018980+00:00"
+    },
+    "4d50e31ecaedb140": {
+      "idf": "IDF-0473",
+      "source": "retired/canonic-apps/STORE/BLOGS/STAGING/12-we-cured-ai-slop.md",
+      "date": "2026-01-30T21:17:54.019119+00:00"
+    },
+    "ead12219fbefc3b4": {
+      "idf": "IDF-0474",
+      "source": "retired/canonic-apps/STORE/BLOGS/STAGING/11-fifty-idfs.md",
+      "date": "2026-01-30T21:17:54.019299+00:00"
+    },
+    "547d6b7fe77468a1": {
+      "idf": "IDF-0475",
+      "source": "retired/canonic-apps/STORE/BLOGS/STAGING/14-cannon-to-canon.md",
+      "date": "2026-01-30T21:17:54.019502+00:00"
+    },
+    "10899da1ed76ffaa": {
+      "idf": "IDF-0476",
+      "source": "retired/canonic-apps/STORE/BLOGS/STAGING/13-evolutionary-constraints.md",
+      "date": "2026-01-30T21:17:54.019645+00:00"
+    },
+    "6fa87a8a406733c1": {
+      "idf": "IDF-0477",
+      "source": "retired/canonic-apps/STORE/BLOGS/STAGING/06-minimum-fixed-point.md",
+      "date": "2026-01-30T21:17:54.019804+00:00"
+    },
+    "469137fc89b472fd": {
+      "idf": "IDF-0478",
+      "source": "retired/canonic-apps/STORE/BLOGS/STAGING/04-hard-big-bang.md",
+      "date": "2026-01-30T21:17:54.019955+00:00"
+    },
+    "0f1d6729c7bbffb7": {
+      "idf": "IDF-0479",
+      "source": "retired/canonic-apps/STORE/BLOGS/STAGING/09-episodes.md",
+      "date": "2026-01-30T21:17:54.020162+00:00"
+    },
+    "76655ee2711c5991": {
+      "idf": "IDF-0480",
+      "source": "retired/canonic-apps/STORE/BLOGS/STAGING/02-governance-miners.md",
+      "date": "2026-01-30T21:17:54.020314+00:00"
+    },
+    "856f15f6e31e9a6e": {
+      "idf": "IDF-0481",
+      "source": "retired/canonic-apps/STORE/BLOGS/STAGING/03-writing-is-validation.md",
+      "date": "2026-01-30T21:17:54.020497+00:00"
+    },
+    "94b198b446142de5": {
+      "idf": "IDF-0482",
+      "source": "retired/canonic-apps/STORE/BLOGS/STAGING/05-org-governance.md",
+      "date": "2026-01-30T21:17:54.020641+00:00"
+    },
+    "6f089e9045ab265f": {
+      "idf": "IDF-0483",
+      "source": "retired/canonic-apps/STORE/BLOGS/STAGING/INDEX.md",
+      "date": "2026-01-30T21:17:54.020767+00:00"
+    },
+    "d04b206988de019a": {
+      "idf": "IDF-0484",
+      "source": "retired/canonic-apps/STORE/BLOGS/STAGING/08-self-healing.md",
+      "date": "2026-01-30T21:17:54.020938+00:00"
+    },
+    "4ee7f727b8e29c2a": {
+      "idf": "IDF-0485",
+      "source": "retired/canonic-apps/STORE/BLOGS/STAGING/07-detros.md",
+      "date": "2026-01-30T21:17:54.021165+00:00"
+    },
+    "b60fd0551e16256b": {
+      "idf": "IDF-0486",
+      "source": "retired/canonic-apps/STORE/BLOGS/AXIOMS/002-the-system-validates-itself.md",
+      "date": "2026-01-30T21:17:54.021316+00:00"
+    },
+    "3cb3957d805b5288": {
+      "idf": "IDF-0487",
+      "source": "retired/canonic-apps/STORE/BLOGS/AXIOMS/003-constraints-flow-down.md",
+      "date": "2026-01-30T21:17:54.021457+00:00"
+    },
+    "cbae349411266118": {
+      "idf": "IDF-0488",
+      "source": "retired/canonic-apps/STORE/BLOGS/AXIOMS/001-all-relation-is-triadic.md",
+      "date": "2026-01-30T21:17:54.021625+00:00"
+    },
+    "4bada3fcc4071ce0": {
+      "idf": "IDF-0489",
+      "source": "retired/canonic-apps/STORE/BLOGS/ORIGIN/00-how-a-book-became-a-language.md",
+      "date": "2026-01-30T21:17:54.021836+00:00"
+    },
+    "b3553aaebc683d9c": {
+      "idf": "IDF-0490",
+      "source": "retired/hadleylab-skin/web-app/README.md",
+      "date": "2026-01-30T21:17:54.022346+00:00"
+    },
+    "d1258244156010d4": {
+      "idf": "IDF-0491",
+      "source": "retired/canonic-proto/MAMMOCHAT-PUBLIC/README.md",
+      "date": "2026-01-30T21:17:54.022545+00:00"
+    },
+    "eb05cad12381352d": {
+      "idf": "IDF-0588",
+      "source": "retired/HadleyLab/heysol-api-client/CHANGELOG.md",
+      "date": "2026-01-30T21:17:54.041739+00:00"
+    },
+    "ea55b8872ca95ace": {
+      "idf": "IDF-0589",
+      "source": "retired/HadleyLab/heysol-api-client/README.md",
+      "date": "2026-01-30T21:17:54.041943+00:00"
+    },
+    "11b13d45a400689f": {
+      "idf": "IDF-0590",
+      "source": "retired/HadleyLab/heysol-api-client/tests/README.md",
+      "date": "2026-01-30T21:17:54.042106+00:00"
+    },
+    "29ec79de3354b1bb": {
+      "idf": "IDF-0591",
+      "source": "retired/HadleyLab/heysol-api-client/tests/TESTING_README.md",
+      "date": "2026-01-30T21:17:54.042261+00:00"
+    },
+    "8040170ee7e81632": {
+      "idf": "IDF-0592",
+      "source": "retired/HadleyLab/heysol-api-client/docs/API_DOCUMENTATION.md",
+      "date": "2026-01-30T21:17:54.042579+00:00"
+    },
+    "309730a29ae6ae4a": {
+      "idf": "IDF-0593",
+      "source": "retired/HadleyLab/heysol-api-client/docs/TESTING_REPORT.md",
+      "date": "2026-01-30T21:17:54.043004+00:00"
+    },
+    "02c0b64670cd77d4": {
+      "idf": "IDF-0594",
+      "source": "retired/HadleyLab/heysol-api-client/docs/API_VS_MCP_ANALYSIS.md",
+      "date": "2026-01-30T21:17:54.043448+00:00"
+    },
+    "bc8470dcf503917f": {
+      "idf": "IDF-0595",
+      "source": "retired/HadleyLab/heysol-api-client/examples/README.md",
+      "date": "2026-01-30T21:17:54.043688+00:00"
+    },
+    "012f22e62dbb4e63": {
+      "idf": "IDF-0587",
+      "source": "retired/HadleyLab/ucfwealth-frontend/README.md",
+      "date": "2026-01-30T21:17:54.041396+00:00"
+    },
+    "e6fc1a2f9b977ae4": {
+      "idf": "IDF-0532",
+      "source": "retired/HadleyLab/nice/memory-bank/techContext.md",
+      "date": "2026-01-30T21:17:54.031831+00:00"
+    },
+    "5ae227ff98ce8094": {
+      "idf": "IDF-0533",
+      "source": "retired/HadleyLab/nice/memory-bank/activeContext.md",
+      "date": "2026-01-30T21:17:54.031956+00:00"
+    },
+    "151289781d179785": {
+      "idf": "IDF-0534",
+      "source": "retired/HadleyLab/nice/memory-bank/productContext.md",
+      "date": "2026-01-30T21:17:54.032104+00:00"
+    },
+    "70c4d9d45b28c005": {
+      "idf": "IDF-0535",
+      "source": "retired/HadleyLab/nice/memory-bank/systemPatterns.md",
+      "date": "2026-01-30T21:17:54.032237+00:00"
+    },
+    "759f2b64be2ad348": {
+      "idf": "IDF-0609",
+      "source": "retired/HadleyLab/ucfwealth/README.md",
+      "date": "2026-01-30T21:17:54.045756+00:00"
+    },
+    "980ebc339ce07a69": {
+      "idf": "IDF-0596",
+      "source": "retired/HadleyLab/MedCrawler/README.md",
+      "date": "2026-01-30T21:17:54.043806+00:00"
+    },
+    "7b86c299ccf656e9": {
+      "idf": "IDF-0536",
+      "source": "retired/HadleyLab/Dividends-and-Deaths/CHANGELOG.md",
+      "date": "2026-01-30T21:17:54.032387+00:00"
+    },
+    "c282c24d78606cca": {
+      "idf": "IDF-0537",
+      "source": "retired/HadleyLab/Dividends-and-Deaths/QUICKSTART.md",
+      "date": "2026-01-30T21:17:54.032560+00:00"
+    },
+    "1a785983b2261044": {
+      "idf": "IDF-0538",
+      "source": "retired/HadleyLab/Dividends-and-Deaths/AUTHORING_GUIDE.md",
+      "date": "2026-01-30T21:17:54.032755+00:00"
+    },
+    "d7e66b10bb9f85e8": {
+      "idf": "IDF-0539",
+      "source": "retired/HadleyLab/Dividends-and-Deaths/README.md",
+      "date": "2026-01-30T21:17:54.032919+00:00"
+    },
+    "61ba79c3ee94bceb": {
+      "idf": "IDF-0540",
+      "source": "retired/HadleyLab/Dividends-and-Deaths/chapters/GLOBAL_LEDGER.md",
+      "date": "2026-01-30T21:17:54.033140+00:00"
+    },
+    "c0252d18783fbc26": {
+      "idf": "IDF-0541",
+      "source": "retired/HadleyLab/Dividends-and-Deaths/chapters/README_CHAPTERS.md",
+      "date": "2026-01-30T21:17:54.033322+00:00"
+    },
+    "e62f6b698cfd05f1": {
+      "idf": "IDF-0542",
+      "source": "retired/HadleyLab/Dividends-and-Deaths/drafts/chapter_01.md",
+      "date": "2026-01-30T21:17:54.033527+00:00"
+    },
+    "f4c0943dbf1ff09a": {
+      "idf": "IDF-0543",
+      "source": "retired/HadleyLab/Dividends-and-Deaths/drafts/chapter_11.md",
+      "date": "2026-01-30T21:17:54.033629+00:00"
+    },
+    "a93fa8b12141a97e": {
+      "idf": "IDF-0544",
+      "source": "retired/HadleyLab/Dividends-and-Deaths/drafts/chapter_05.md",
+      "date": "2026-01-30T21:17:54.033838+00:00"
+    },
+    "b6c5d1420597e4f4": {
+      "idf": "IDF-0545",
+      "source": "retired/HadleyLab/Dividends-and-Deaths/drafts/chapter_15.md",
+      "date": "2026-01-30T21:17:54.033938+00:00"
+    },
+    "dc5d9839a13f587e": {
+      "idf": "IDF-0546",
+      "source": "retired/HadleyLab/Dividends-and-Deaths/drafts/epilogue.md",
+      "date": "2026-01-30T21:17:54.034035+00:00"
+    },
+    "15d9ed1a5e2b355b": {
+      "idf": "IDF-0547",
+      "source": "retired/HadleyLab/Dividends-and-Deaths/drafts/chapter_04.md",
+      "date": "2026-01-30T21:17:54.034203+00:00"
+    },
+    "67b56481d8627f31": {
+      "idf": "IDF-0548",
+      "source": "retired/HadleyLab/Dividends-and-Deaths/drafts/chapter_14.md",
+      "date": "2026-01-30T21:17:54.034312+00:00"
+    },
+    "45a91bfdaef98a8e": {
+      "idf": "IDF-0549",
+      "source": "retired/HadleyLab/Dividends-and-Deaths/drafts/chapter_10.md",
+      "date": "2026-01-30T21:17:54.034417+00:00"
+    },
+    "66f822a6392412df": {
+      "idf": "IDF-0550",
+      "source": "retired/HadleyLab/Dividends-and-Deaths/drafts/chapter_09.md",
+      "date": "2026-01-30T21:17:54.034520+00:00"
+    },
+    "be9f503257886825": {
+      "idf": "IDF-0551",
+      "source": "retired/HadleyLab/Dividends-and-Deaths/drafts/chapter_08.md",
+      "date": "2026-01-30T21:17:54.034621+00:00"
+    },
+    "62c10e6fa9794464": {
+      "idf": "IDF-0552",
+      "source": "retired/HadleyLab/Dividends-and-Deaths/drafts/chapter_07.md",
+      "date": "2026-01-30T21:17:54.034721+00:00"
+    },
+    "29d85833567f640d": {
+      "idf": "IDF-0553",
+      "source": "retired/HadleyLab/Dividends-and-Deaths/drafts/chapter_17.md",
+      "date": "2026-01-30T21:17:54.034820+00:00"
+    },
+    "4893ebfe45c2b965": {
+      "idf": "IDF-0554",
+      "source": "retired/HadleyLab/Dividends-and-Deaths/drafts/chapter_03.md",
+      "date": "2026-01-30T21:17:54.034968+00:00"
+    },
+    "884617a3bf69f029": {
+      "idf": "IDF-0555",
+      "source": "retired/HadleyLab/Dividends-and-Deaths/drafts/chapter_13.md",
+      "date": "2026-01-30T21:17:54.035071+00:00"
+    },
+    "bac7ddb1e4408b8a": {
+      "idf": "IDF-0556",
+      "source": "retired/HadleyLab/Dividends-and-Deaths/drafts/prolog.md",
+      "date": "2026-01-30T21:17:54.035280+00:00"
+    },
+    "817a2e6a3dfc06cb": {
+      "idf": "IDF-0557",
+      "source": "retired/HadleyLab/Dividends-and-Deaths/drafts/chapter_02.md",
+      "date": "2026-01-30T21:17:54.035462+00:00"
+    },
+    "03fda0efc49bce94": {
+      "idf": "IDF-0558",
+      "source": "retired/HadleyLab/Dividends-and-Deaths/drafts/chapter_12.md",
+      "date": "2026-01-30T21:17:54.035563+00:00"
+    },
+    "cd179a2798237465": {
+      "idf": "IDF-0559",
+      "source": "retired/HadleyLab/Dividends-and-Deaths/drafts/chapter_06.md",
+      "date": "2026-01-30T21:17:54.035777+00:00"
+    },
+    "88ee7d83b2652db1": {
+      "idf": "IDF-0560",
+      "source": "retired/HadleyLab/Dividends-and-Deaths/drafts/chapter_16.md",
+      "date": "2026-01-30T21:17:54.035877+00:00"
+    },
+    "33528c022fa723ef": {
+      "idf": "IDF-0561",
+      "source": "retired/HadleyLab/Dividends-and-Deaths/concepts/concept_maya_hindu.md",
+      "date": "2026-01-30T21:17:54.036021+00:00"
+    },
+    "35d55d1d107673fd": {
+      "idf": "IDF-0562",
+      "source": "retired/HadleyLab/Dividends-and-Deaths/concepts/concept_mortality_as_ledger.md",
+      "date": "2026-01-30T21:17:54.036165+00:00"
+    },
+    "7c76e6fc559eb7ca": {
+      "idf": "IDF-0563",
+      "source": "retired/HadleyLab/Dividends-and-Deaths/concepts/README_CONCEPTS.md",
+      "date": "2026-01-30T21:17:54.036310+00:00"
+    },
+    "740365e4f2e89af8": {
+      "idf": "IDF-0564",
+      "source": "retired/HadleyLab/Dividends-and-Deaths/concepts/concept_healthcare_data_laws.md",
+      "date": "2026-01-30T21:17:54.036499+00:00"
+    },
+    "b54bb27af3a4fe61": {
+      "idf": "IDF-0565",
+      "source": "retired/HadleyLab/Dividends-and-Deaths/concepts/concept_digital_maya.md",
+      "date": "2026-01-30T21:17:54.036666+00:00"
+    },
+    "68f8298885c2f70e": {
+      "idf": "IDF-0566",
+      "source": "retired/HadleyLab/Dividends-and-Deaths/concepts/concept_three_engines.md",
+      "date": "2026-01-30T21:17:54.037034+00:00"
+    },
+    "2902e6713f08f157": {
+      "idf": "IDF-0567",
+      "source": "retired/HadleyLab/Dividends-and-Deaths/concepts/concept_vocabulary.md",
+      "date": "2026-01-30T21:17:54.037210+00:00"
+    },
+    "023b88924d94af0a": {
+      "idf": "IDF-0568",
+      "source": "retired/HadleyLab/Dividends-and-Deaths/concepts/concept_geometry_of_medicine.md",
+      "date": "2026-01-30T21:17:54.037398+00:00"
+    },
+    "f6a975f0866e7012": {
+      "idf": "IDF-0569",
+      "source": "retired/HadleyLab/Dividends-and-Deaths/book/publication_plan.md",
+      "date": "2026-01-30T21:17:54.037559+00:00"
+    },
+    "3b2152240c55ef5b": {
+      "idf": "IDF-0570",
+      "source": "retired/HadleyLab/Dividends-and-Deaths/book/spine.md",
+      "date": "2026-01-30T21:17:54.038069+00:00"
+    },
+    "c91a13c1ad936cbd": {
+      "idf": "IDF-0571",
+      "source": "retired/HadleyLab/Dividends-and-Deaths/book/overview.md",
+      "date": "2026-01-30T21:17:54.038263+00:00"
+    },
+    "e9f55ab93a992d32": {
+      "idf": "IDF-0572",
+      "source": "retired/HadleyLab/Dividends-and-Deaths/book/README_BOOK.md",
+      "date": "2026-01-30T21:17:54.038409+00:00"
+    },
+    "61241b39e81dc5d9": {
+      "idf": "IDF-0573",
+      "source": "retired/HadleyLab/Dividends-and-Deaths/book/emotional_arc.md",
+      "date": "2026-01-30T21:17:54.038575+00:00"
+    },
+    "51f0eb393598bae2": {
+      "idf": "IDF-0574",
+      "source": "retired/HadleyLab/Dividends-and-Deaths/protocols/protocol_concept_admission.md",
+      "date": "2026-01-30T21:17:54.038746+00:00"
+    },
+    "6d45b11deb6b125a": {
+      "idf": "IDF-0575",
+      "source": "retired/HadleyLab/Dividends-and-Deaths/protocols/protocol_canon_compliance.md",
+      "date": "2026-01-30T21:17:54.038922+00:00"
+    },
+    "5f7a1314b2876750": {
+      "idf": "IDF-0576",
+      "source": "retired/HadleyLab/Dividends-and-Deaths/protocols/protocol_chapter_production.md",
+      "date": "2026-01-30T21:17:54.039134+00:00"
+    },
+    "db75ded1ed934ef4": {
+      "idf": "IDF-0577",
+      "source": "retired/HadleyLab/Dividends-and-Deaths/protocols/protocol_asset_registration.md",
+      "date": "2026-01-30T21:17:54.039344+00:00"
+    },
+    "15a15ee698b7f7a0": {
+      "idf": "IDF-0578",
+      "source": "retired/HadleyLab/Dividends-and-Deaths/protocols/protocol_nomenclature_system.md",
+      "date": "2026-01-30T21:17:54.039484+00:00"
+    },
+    "28c44bc613aafcf3": {
+      "idf": "IDF-0579",
+      "source": "retired/HadleyLab/Dividends-and-Deaths/chapters/02_dividends/chapter_02_prose.md",
+      "date": "2026-01-30T21:17:54.039691+00:00"
+    },
+    "69fb69115ab6dc2b": {
+      "idf": "IDF-0580",
+      "source": "retired/HadleyLab/Dividends-and-Deaths/chapters/02_dividends/chapter_02_ledger.md",
+      "date": "2026-01-30T21:17:54.039927+00:00"
+    },
+    "6674c0e58bc3fc38": {
+      "idf": "IDF-0581",
+      "source": "retired/HadleyLab/Dividends-and-Deaths/chapters/00_prologue/chapter_00_ledger.md",
+      "date": "2026-01-30T21:17:54.040189+00:00"
+    },
+    "4920257ed702ae56": {
+      "idf": "IDF-0582",
+      "source": "retired/HadleyLab/Dividends-and-Deaths/chapters/00_prologue/chapter_00_prose.md",
+      "date": "2026-01-30T21:17:54.040397+00:00"
+    },
+    "99f7ebfb652897e6": {
+      "idf": "IDF-0583",
+      "source": "retired/HadleyLab/Dividends-and-Deaths/chapters/01_the_billable_code/chapter_01_ledger.md",
+      "date": "2026-01-30T21:17:54.040643+00:00"
+    },
+    "b97b114b23d0f676": {
+      "idf": "IDF-0584",
+      "source": "retired/HadleyLab/Dividends-and-Deaths/chapters/01_the_billable_code/chapter_01_prose.md",
+      "date": "2026-01-30T21:17:54.040830+00:00"
+    },
+    "8ee33453bc5e4e9e": {
+      "idf": "IDF-0585",
+      "source": "retired/HadleyLab/Dividends-and-Deaths/chapters/03_deaths/chapter_03_prose.md",
+      "date": "2026-01-30T21:17:54.041017+00:00"
+    },
+    "ca5cfe80853e18b1": {
+      "idf": "IDF-0586",
+      "source": "retired/HadleyLab/Dividends-and-Deaths/chapters/03_deaths/chapter_03_ledger.md",
+      "date": "2026-01-30T21:17:54.041230+00:00"
+    },
+    "930be3e01d34c934": {
+      "idf": "IDF-0597",
+      "source": "retired/HadleyLab/MedChat/ARCHITECTURE.md",
+      "date": "2026-01-30T21:17:54.043991+00:00"
+    },
+    "831aa86c70970f47": {
+      "idf": "IDF-0598",
+      "source": "retired/HadleyLab/MedChat/README.md",
+      "date": "2026-01-30T21:17:54.044126+00:00"
+    },
+    "1554a7555be3188e": {
+      "idf": "IDF-0599",
+      "source": "retired/HadleyLab/beeware_chat/README.md",
+      "date": "2026-01-30T21:17:54.044244+00:00"
+    },
+    "cd5503567b9b176a": {
+      "idf": "IDF-0600",
+      "source": "retired/HadleyLab/beeware_chat/docs/user_guide.md",
+      "date": "2026-01-30T21:17:54.044431+00:00"
+    },
+    "55ab83deb717ed34": {
+      "idf": "IDF-0601",
+      "source": "retired/HadleyLab/beeware_chat/docs/architecture.md",
+      "date": "2026-01-30T21:17:54.044550+00:00"
+    },
+    "910f9b9640951f5f": {
+      "idf": "IDF-0602",
+      "source": "retired/HadleyLab/beeware_chat/docs/setup.md",
+      "date": "2026-01-30T21:17:54.044701+00:00"
+    },
+    "497cd2692a7bf862": {
+      "idf": "IDF-0603",
+      "source": "retired/HadleyLab/beeware_chat/docs/api_integration.md",
+      "date": "2026-01-30T21:17:54.044867+00:00"
+    },
+    "179addebffc6e62b": {
+      "idf": "IDF-0604",
+      "source": "retired/HadleyLab/beeware_chat/docs/testing.md",
+      "date": "2026-01-30T21:17:54.045005+00:00"
+    },
+    "9a7340c2338ca66d": {
+      "idf": "IDF-0605",
+      "source": "retired/HadleyLab/beeware_chat/docs/app_store.md",
+      "date": "2026-01-30T21:17:54.045143+00:00"
+    },
+    "90f0042e82870c0a": {
+      "idf": "IDF-0606",
+      "source": "retired/HadleyLab/beeware_chat/src/prompts/system.md",
+      "date": "2026-01-30T21:17:54.045344+00:00"
+    },
+    "458f1ee6edc05705": {
+      "idf": "IDF-0607",
+      "source": "retired/HadleyLab/beeware_chat/resources/webchat/README.md",
+      "date": "2026-01-30T21:17:54.045490+00:00"
+    },
+    "74632cc1edc72290": {
+      "idf": "IDF-0608",
+      "source": "retired/HadleyLab/ucfwealth-infrastructure/README.md",
+      "date": "2026-01-30T21:17:54.045595+00:00"
+    },
+    "88274be424a4aaf2": {
+      "idf": "IDF-0610",
+      "source": "retired/HadleyLab/MammoChatApp/mammo-chat-brief.md",
+      "date": "2026-01-30T21:17:54.045963+00:00"
+    },
+    "85678cb06e15b745": {
+      "idf": "IDF-0611",
+      "source": "retired/HadleyLab/MammoChatApp/README.md",
+      "date": "2026-01-30T21:17:54.046128+00:00"
+    }
+  },
+  "idf_count": 611
+}

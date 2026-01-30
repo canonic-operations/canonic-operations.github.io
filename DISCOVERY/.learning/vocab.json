@@ -1,0 +1,186 @@
+{
+  "AGENT": [
+    "AGENT",
+    "EVO",
+    "CHAT",
+    "SHOP",
+    "TRIAD",
+    "Entry Point",
+    "Config"
+  ],
+  "BLOG": [
+    "BLOG",
+    "ORIGIN",
+    "Post"
+  ],
+  "BOOKS": [
+    "BOOKS",
+    "ABC",
+    "Publication"
+  ],
+  "CANONIC": [
+    "DETROS",
+    "TRIAD",
+    "VaaS",
+    "FaaS",
+    "LEDGER"
+  ],
+  "CHAT": [
+    "CHAT",
+    "LEARNING",
+    "TRANSCRIPTS",
+    "Compliance"
+  ],
+  "COIN": [
+    "COIN",
+    "WORK",
+    "MAX",
+    "MIN",
+    "LEDGER"
+  ],
+  "DISCOVERY": [
+    "IDF",
+    "DRAFT",
+    "GOLD",
+    "Attribution",
+    "Fluent"
+  ],
+  "DOMAIN": [
+    "vertical",
+    "domain app",
+    "expertise"
+  ],
+  "EVO": [
+    "EVO",
+    "LEDGER",
+    "IDF",
+    "VOCAB-aware"
+  ],
+  "FaaS": [
+    "FaaS",
+    "Render",
+    "Template",
+    "Route",
+    "Static"
+  ],
+  "HADLEYLAB": [
+    "VITAE",
+    "PAPERS",
+    "BOOKS",
+    "BLOGS",
+    "WRITING",
+    "SERVICES"
+  ],
+  "LEARNING": [
+    "LEARNING",
+    "ML",
+    "META-LEARNING",
+    "VOCAB-aware",
+    "Fluent",
+    "Attribution",
+    "Discovery"
+  ],
+  "MAMMOCHAT": [
+    "MAMMOCHAT",
+    "mCODE",
+    "FHIR R4",
+    "BI-RADS"
+  ],
+  "MED": [
+    "MED",
+    "HIPAA",
+    "FHIR",
+    "mCODE",
+    "EHR",
+    "PHI"
+  ],
+  "ONCO": [
+    "ONCO",
+    "TNM",
+    "NCCN",
+    "mCODE",
+    "AGENT"
+  ],
+  "PAPERS": [
+    "PAPERS",
+    "IDF",
+    "Peer-reviewed",
+    "PubMed"
+  ],
+  "TEMPLATES": [
+    "foundation",
+    "instantiation",
+    "mapping"
+  ],
+  "VAULT": [
+    "VAULT",
+    "EVIDENCE",
+    "SNAPSHOT",
+    "PROOF",
+    "ARCHIVE",
+    "QUERY",
+    "VERIFY"
+  ],
+  "VITAE": [
+    "VITAE",
+    "Holdings",
+    "Deals",
+    "Assets",
+    "LEDGER",
+    "CLAIMS",
+    "EVIDENCE",
+    "SNAPSHOT",
+    "CREDENTIAL",
+    "PUBLICATION",
+    "GRANT",
+    "ORCID",
+    "TEMPLATE",
+    "EXPORT",
+    "AGENT"
+  ],
+  "VaaS": [
+    "VaaS",
+    "DETROS",
+    "Black-box",
+    "Tier",
+    "VALID",
+    "BLOCKED",
+    "FLAGGED"
+  ],
+  "WALLET": [
+    "WALLET",
+    "RESERVE",
+    "CREDIT",
+    "MAX",
+    "MIN",
+    "BAL",
+    "HISTORY"
+  ],
+  "adventhealth-rob": [
+    "ROB"
+  ],
+  "apps": [
+    "APPS"
+  ],
+  "canonic-foundation": [
+    "CANONIC",
+    "AGENT",
+    "CHAT",
+    "EVOLUTION",
+    "FOUNDATION",
+    "LANGUAGE",
+    "MACHINE",
+    "COMPLIANCE",
+    "META",
+    "DOCS"
+  ],
+  "hadleylab-dexter": [
+    "DEXTER",
+    "CV",
+    "VITAE",
+    "PAPER",
+    "BOOK",
+    "BLOG",
+    "CANONVERSE"
+  ]
+}
