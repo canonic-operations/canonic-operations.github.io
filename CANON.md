@@ -5,7 +5,7 @@ tier: ENTERPRISE
 
 ## Axiom
 
-**Operations coordinates ORGS through USERS.**
+**OPERATIONS = where DEALS happen. COIN TALK. BUSINESS PLANS. USER-ORGS → ENTERPRISE.**
 
 ## DETROS — Strategic Success
 
