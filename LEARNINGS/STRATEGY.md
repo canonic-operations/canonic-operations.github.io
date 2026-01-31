@@ -1,6 +1,10 @@
 # STRATEGY LEARNINGS
 
-inherits: /CANONIC/OPERATIONS/
+inherits: /CANONIC/OPERATIONS/LEARNINGS/
+
+## Axiom
+
+**Patterns from execution. Intel synthesized from transcripts and deals.**
 
 ## Enterprise Sales (AdventHealth Pattern)
 
@@ -48,9 +52,24 @@ inherits: /CANONIC/OPERATIONS/
 | Chait | UCF/MammoTrials | Co-founder, STTR, paper |
 | Michael | UCF (student) | I-Corps team (transitioning) |
 
+## Legacy Networks (Atul Butte Pattern)
+
+1. **Observation** - Mentor's passing activates network (31+ alumni)
+2. **Insight** - Legacy creates collaboration catalyst
+3. **Action** - Rare cancers initiative, innovation summit proposals
+4. **Assets** - buttelab.ucsf.edu, WhatsApp alumni group
+
+## Co-Founder Dynamics (MammoTrials Pattern)
+
+1. **Observation** - Early relationship building, grant drafting, blockchain event networking
+2. **Insight** - "Opportunity pipeline being set up" mentality
+3. **Action** - POC development, specific aims page drafting, team calls
+4. **Assets** - STTR/SBIR history, UCF connection, paper pipeline
+
 ## Anti-Patterns
 
 - "Florida is a giant facade"
 - "Original pill mill"
 - "Invested interest" with Disney backing
 - Family drama = universal constant
+- "Fix UCSF's bureaucracy system first"
