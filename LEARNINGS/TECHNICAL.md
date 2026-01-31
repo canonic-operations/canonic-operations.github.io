@@ -1,81 +1,96 @@
-# TECHNICAL LEARNINGS
+# TECHNICAL — CANON
 
 inherits: /CANONIC/OPERATIONS/LEARNINGS/
 
+---
+
 ## Axiom
 
-**Architecture patterns from MammoChat and HadleyLab implementations.**
+**DETROS CLOSURE for architecture. Patterns that guarantee compliance.**
 
 ---
 
-## CHAT Architecture (MammoChatApp Pattern)
+## DETROS Closure
 
-1. **RAG System** - Retrieval-Augmented Generation
-   - crawlers/ → Medical literature API integrations
-   - database/ → Supabase + pgvector
-   - rag/ → Evidence-based responses with citations
-
-2. **Stack**
-   - Python 3.11+
-   - Streamlit (rapid prototyping)
-   - OpenAI API (LLM)
-   - Supabase (PostgreSQL + pgvector)
-
-3. **Pattern**
-   ```
-   User Query → RAG Retrieval → LLM + Citations → Response
-   ```
+| Dimension | Technical Requirement |
+|-----------|----------------------|
+| **D** | CANON.md in every directory |
+| **E** | Git history = LEDGER = evidence |
+| **T** | Tiered validation (GENESIS → CLOSURE) |
+| **R** | inherits: chain to parent |
+| **O** | Hooks enforce at commit |
+| **S** | TRIAD structure complete |
 
 ---
 
-## Mobile Architecture (beeware_chat Pattern)
+## CHAT Pattern
 
-1. **Cross-platform**
-   - BeeWare/Toga framework
-   - Briefcase for iOS/Android packaging
-   - toga_dummy for headless testing
+```
+CANON.md (D)
+    ↓
+User Query (E: session logged)
+    ↓
+RAG Retrieval (R: citations)
+    ↓
+LLM Response (O: action)
+    ↓
+TRANSCRIPTS (S: archived)
+```
 
-2. **Structure**
-   - controllers/ → UI logic
-   - services/ → Business logic (auth, chat, memory)
-   - models/ → Data structures
-   - utils/ → Config, async helpers
-
-3. **Config**
-   - .env for secrets (DEEPSEEK_API_KEY, HEYSOL_API_KEY)
-   - app_config.json for settings
-   - MAMMOCHAT_CONFIG_PATH for override
+**Closure:** Every response has evidence. Every session logged.
 
 ---
 
-## API Client (heysol-api-client Pattern)
+## EVO Pattern
 
-1. **Backend integration**
-   - Async client for streaming responses
-   - Memory/conversation persistence
-   - Auth service integration
+```
+LEDGER (git history)
+    ↓ learn()
+SPEC (CLOSURE + ROADMAP)
+    ↓ comply()
+PASS/FAIL
+    ↓ output()
+DISCOVERY/IDFs/
+```
 
----
-
-## Key Patterns
-
-| Pattern | Implementation | Lesson |
-|---------|---------------|--------|
-| RAG | MammoChatApp | Citations = trust |
-| Cross-platform | BeeWare/Toga | One codebase, all platforms |
-| Config | JSON + .env | Secrets separate from settings |
-| Streaming | heysol-api-client | Async for real-time |
+**Closure:** What you claim is what you have.
 
 ---
 
-## Extinct (Retired)
+## SHOP Pattern
 
-These implementations are now extinct. Patterns live on:
-- MammoChatApp → MAMMOCHAT/ (hadleylab-dexter)
-- MedChat → MEDCHAT/ (hadleylab-dexter)
-- beeware_chat → Mobile pattern
-- ucfwealth → SHOP pattern
+```
+COIN (value) + WALLET (account) + VAULT (storage)
+    ↓
+Transaction (E: logged)
+    ↓
+Validation (O: VaaS)
+    ↓
+Settlement (S: immutable)
+```
+
+**Closure:** Every transaction evidenced.
 
 ---
 
-*TECHNICAL | Architecture | LEARNINGS*
+## Architecture Principles
+
+1. **Separation** - Secrets in CREDENTIALS/, config in CONFIG/
+2. **Hooks** - pre-commit (VaaS gate), post-commit (EVO + SYNC)
+3. **Streaming** - Async for real-time, persist to TRANSCRIPTS
+4. **Cross-platform** - One doctrine, multiple implementations
+
+---
+
+## Stack (Current)
+
+| Layer | Technology |
+|-------|------------|
+| LLM | Claude API (primary), DeepSeek (fallback) |
+| DB | Supabase (PostgreSQL + pgvector) |
+| Hosting | GitHub Pages (frontend), Cloudflare Workers (VaaS) |
+| Runtime | ~/.canonic (AGENT) |
+
+---
+
+*TECHNICAL | DETROS CLOSURE | LEARNINGS*
