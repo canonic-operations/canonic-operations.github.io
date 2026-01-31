@@ -29,3 +29,16 @@ tier: ENTERPRISE
 | LEARNINGS/ | Strategic intel synthesis |
 | FINANCIALS/ | Revenue, costs, unit economics |
 | FORECASTS/ | Projections, scenarios, milestones |
+
+---
+
+## Constraints
+
+1. DEALS MUST be ledgered.
+2. ORGS MUST have governance.
+3. DISCOVERY MUST produce IDFs.
+4. FINANCIALS MUST be evidential.
+
+---
+
+*OPERATIONS | CANON | canonic-operations*
